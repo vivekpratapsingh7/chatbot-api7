@@ -1,0 +1,1902 @@
+Question,Answer
+Who did the first work generally recognized as AI?,"Warren McCulloch and Walter Pitts (1943).
+"
+What sources was drawn on the formation of the first work generally recognized as AI?,"knowledge of the basic physiology and function of neurons in the brain; a formal analysis of propositional logic due to Russell and Whitehead; and Turing's theory of computation.
+"
+Who created the Hebbian learning rule?,"Donald Hebb (1949).
+"
+When the first neural network is built?,"1950.
+"
+What is the first neural network called?,"The SNARC.
+"
+Who introduced the Turing test, machine learning
+Alan Turing prefer what method on creating human-level Al?,"He prefer to develop learning algorithms and then teach the machine rather than by programming its intelligence by hand.
+"
+Who presented the Logic Theorist (LT)?,"Allen Newell and Herbert Simon from Carnegie Tech.
+"
+What does General Problem Solver (GPS) is designed for?,"GPS was designed from the start to imitate human problem-solving protocols.
+"
+Which model was robably the first program to embody the â€œthinking humanlyâ€ approach?,"General Problem Solver (GPS).
+"
+Who formulate the famous physical symbol system hypothesis?,"Allen Newell and Herbert Simon.
+"
+What does physical symbol system hypothesis states?,"a physical symbol system has the necessary and sufficient means for general intelligent action.
+"
+Who constructed the Geometry Theorem Prover?,"Herbert Gelernter (1959).
+"
+Who defined the high-level language Lisp?,"John McCarthy.
+"
+who discovered a complete theorem-proving algorithm for first-order logic in 1965?,"J. A. Robinson's
+"
+Which program in 1963 was able to solve closed-form calculus integration problems typical of MIT's first-year college courses?,"James Slagle's Saint program
+"
+What is the most famous microworld?,"The blocks world.
+"
+What does the perceptron convergence theorem say?,The theorem says that the learning algorithm can adjust the connection strengths of a perceptron to match any input data
+What does the book Preceptrons (1969) mentioned?,Although perceptrons (a simple form of neural network) could be shown to learn anything they were capable of representing
+What is the weak methods in 1969?,"a general-purpose search mechanism trying to string together elementary reasoning steps to find complete solutions.
+"
+Why weak methods in 1969 are called weak methods?,"They do not scale up to large or difficult problem instances.
+"
+Why is the DENDRAL program powerful, according to its authors?
+Which program is the first successful knowledge-intensive system?,"The DENDRAL program.
+"
+What does knowledge-intensive system mean?,"A system that its expertise derived from large numbers of special-purpose rules.
+"
+What is the content of the Heuristic Programming Project (HPP)?,"It is to investigate the extent to which the new methodology of expert systems could be applied to other areas.
+"
+What function does MYCIN system contribute in?,"diagnosing blood infections.
+"
+What is the major differences between MYCIN and DENDRAL?,First
+What calculus of uncertainty does MYCIN incorporated?,"certainty factors.
+"
+How is the performance of certainty factors in MYCIN?,"It seemed (at the time) to fit well with how doctors assessed the impact of evidence on the diagnosis.
+"
+Which system is the first successful commercial expert system?,"R1.
+"
+Where does the first successful commercial expert system began operation?,The Digital Equipment Corporation (McDermott
+What does robust language understanding requires?,"general knowledge about the world and a general method for using that knowledge.
+"
+What does Minsky's idea of frames (1975) implies?,"assembling facts about particular object and event types and arranging the types into a large taxonomic hierarchy analogous to a biological taxonomy.
+"
+What is the content of the â€œFifth Generationâ€ project announced by the Japanese government in 1981?,A 10-year plan to build massively parallel
+What caused the AI winter?,"Many companies fell by the wayside as they failed to deliver on extravagant promises.
+"
+Who described symbols as the â€œluminiferous aether of Alâ€?,"Geoff Hinton
+"
+What does â€œluminiferous aether of Alâ€ by Geoff Hinton mean?,"A reference to the non-existent medium through which many 19th-century physicists believed that electromagnetic waves propagated.
+"
+How is the connectionist models better suited to the messiness of the real world?,"It forms internal concepts in a more fluid and imprecise way.
+"
+What approach does the brittleness of expert systems led to?,It is an approach incorporating probability rather than Boolean logic
+What approach dominate the field of speech recognition?,"The approach using hidden Markov models (HMMs).
+"
+What are the characteristics of HMMs in the feild of speech recognition?,First
+Which year is an important year for the connection between Al and other fields?,"1988
+"
+In 1998, what fields does AI connected to?
+Whose research led to a new acceptance of probability and decision theory in Al?,"Judea Pearl's (1988).
+"
+What does Pearl's development of Bayesian networks yielded?,"It yielded a rigorous and efficient formalism for representing uncertain knowledge as well as practical algorithms for probabilistic reasoning
+"
+What major contribution is done by Rich Sutton in 1988?,"connecting reinforcement learning to the theory of Markov decision processes (MDPs) developed in the field of operations research.
+"
+What kind of advances facilitated the big data phenomenon?,"Remarkable advances in computing power and the creation of the World Wide Web.
+"
+Who argued that the improvement in performance obtained from increasing the size of the data set by two or three orders of magnitude outweighs any improvement that can be obtained from tweaking the algorithm?,"Banko and Brill (2001)
+"
+Who developed a clever method for filling in holes in photographs by blending in pixels from similar images?,"Hays and Efros (2007).
+"
+What does the term deep learning refers to?,It refers to machine learning using multiple layers of simple
+What method do experiments found some success in handwritten digit recognition in the 1990s?,"convolutional neural networks.
+"
+How does deep network contribute to ALPHAGO's victories over the leading human Go players?,"representing the evaluation function.
+"
+What is the mean for Ford (2018) interviews of AI experts in the question of when (if ever) will AI systems achieve human-level performance across a broad variety of tasks?,"2099
+"
+What system does U.S. forces deployed to do automated logistics planning and scheduling for transportation?, a Dynamic Analysis and Replanning Tool
+What AI system defeated world chess champion Garry Kasparov in 1997?,"Deep Blue
+"
+What AI system defeated the world GO champion Ke Jie?,"ALPHAGO
+"
+What ALPHAZERO can do?,It used no input from humans (except for the rules of the game)
+What does the deep learning model, which won the 2018 Gordon Bell Prize
+Who noted that the â€œmechanical arts are of ambiguous use, serving as well for hurt as for remedyâ€?
+Where does the statement â€œmechanical arts are of ambiguous use, serving as well for hurt as for remedyâ€ be noted?
+Who suggested that â€œFirst solve Al, then use Al to solve everything else.â€?
+How does United Nations define Lethal Autonomous Weapons?,weapons that can locate
+What possible risks we might face on devoloping AI?,Lethal Autonomous Weapons
+Who reminded that the field of those broader goals and warned that the subfields were in danger of becoming ends in themselves?,"Nils Nilsson (1995)
+"
+Who was motivated to consider the long-term future of Al after seeing Arthur Samuel's checker-playing program learn to beat its creator?,"Norbert Wiener
+"
+What does the Kind Midas problem implies?,Midas
+What is the definition of agent?,"anything that can be viewed as perceiving its environment through sensors and acting upon that environment through actuators.
+"
+What the word percept refer to?,"It refer to the content an agent's sensors are perceiving.
+"
+What is an agent's percept sequence?,"the complete history of everything the agent has ever perceived.
+"
+What can we say mathematically on an agent's behavior?,"An agent's behavior is described by the agent function that maps any given percept sequence to an action.
+"
+How AI is stucked to consequentialism?,"We evaluate an agent's behavior by its consequences.
+"
+How can we capture the desirability related to consequentialism of an AI model?,"It can be captured by a performance measure that evaluates any given sequence of environment states.
+"
+What is the difference on desirability between human and machine?,Human measures it from their point of view
+Who warns to ensure that â€œthe purpose put into the machine is the purpose which we really desireâ€?,"Norbert Wiener.
+"
+What does the King Midas problem inspire us?,"We must accept the possibility that we might put the wrong purpose into the machine.
+"
+What can the definition of rational depends on?,"The performance measure that defines the criterion of success; The agent's prior knowledge of the environment; The actions that the agent can perform; The agentâ€™s percept sequence to date.
+"
+What is the difference of omniscience from rationality?,"An omniscient agent knows the actual outcome of its actions and can act accordingly; but omniscience is impossible in reality.
+"
+What is the relationship between rationality and perfection?,Rationality maximizes expected performance
+What information gathering means?,"Doing actions in order to modify future percepts.
+"
+How we will say that an agent lacks autonomy?,"An agent relies on the prior knowledge of its designer rather than on its own percepts and learning processes.
+"
+What does an autonomous rational agent do?,"It should learn what it can to compensate for partial or incorrect prior knowledge.
+"
+What is task environments?,"They are essentially the â€œproblemsâ€ to which rational agents are the â€œsolutions.â€
+"
+What is PEAS description?,Specify the performance measure
+What we can do as the range of task environments that might arise in Al is obviously vast?,"We can identify a fairly small number of dimensions along which task environments can be categorized.
+"
+What dimensions we can indentify on task environments?,"Fully observable vs. partially observable; single-agent vs. multiagent; deterministic vs. nondeterministic; episodic vs. sequential; static vs. dynamic; discrete vs. continuous; known vs. unknown
+"
+How can we say a task environment is fully observable?,"an agent's sensors give it access to the complete state of the environment at each point in time.
+"
+How can we say a task environment is deterministic?,"The next state of the environment is completely determined by the current state and the action executed by the agent(s).
+"
+What task environment makes an agent need not worry about uncertainty?,"fully observable and deterministic.
+"
+What is the difference between stochastic and nondeterministic?,We say that a model of the environment is stochastic if it explicitly deals with probabilities (e.g.
+How can we say a task environment is episodic?,The agent's experience is divided into atomic episodes
+How can we say a task environment is sequential?,"The current decision of agent could affect all future decisions.
+"
+What are the examples of episodic and sequential task environments?,"Many classification tasks are episodic; Chess and taxi driving are sequential.
+"
+Why episodic environments are much simpler than sequential environments?,"The agent does not need to think ahead.
+"
+How can we say a task environment is dynamic for that agent?,"The environment can change while an agent is deliberating.
+"
+How can we say a task environment is static for that agent?,"The environment cannot change while an agent is deliberating.
+"
+Why static task envrionments are easy to deal with?,The agent need not keep looking at the world while it is deciding on an action
+How can we say a task environment is semidynamic?,"The environment itself does not change with the passage of time but the agent's performance score does.
+"
+What are the examples of dynamic, semidynamic and static task environments?
+What are the differences between discrete and continuous task environments?,The state of the environment
+What are the examples of discrete and continuous task environments?,Chess has a finite number of distinct states (excluding the clock)
+What does a known / unknown task environment refers to?," The agent's (or designer's) state of knowledge about the â€œlaws of physicsâ€ of the environment.
+"
+How can we say a task environment is known?,"The outcomes (or outcome probabilities if the environment is nondeterministic) for all actions are given.
+"
+How can we say a task environment is unknown?,"The agent will have to learn how it works in order to make good decisions.
+"
+What is an example of partially observable and known task environment?,In solitaire card games
+What is an example of fully observable and unknown task environment?,In a new video game
+What kind of task environment should be the hardest case?,partially observable
+What is an agent function?,"The mapping from percepts to actions.
+"
+What is the agent architecture?,"A program will run on some sort of computing device with physical sensors and actuators
+"
+What does simple reflex agents do?,These agents select actions on the basis of the current percept
+What does condition-action rule similar to?,"if-then statements.
+"
+What is the more general and flexible approach for simple reflex agent?,"Firstly build a general-purpose interpreter for condition-action rules and then to create rule sets for specific task environments.
+"
+How can a simple reflex agen escape from infinite loops?,"The agent can randomize its actions.
+"
+What is better instead of allowing simple reflex agents to randomize its actions?,"A more sophisticated deterministic agent.
+"
+What is the most effective way to handle partial observability for the agent?,"The agent should maintain some sort of internal state that depends on the percept history and thereby reflects at least some of the unobserved aspects of the current state. 
+"
+How the information about how the world changes over time in model-based reflex agent can be divided?,"The effects of the agent's actions and how the world evolves independently of the agent.
+"
+What is sensor model in model-based reflex agent?,A kind of knowledge
+What is the definition of model-based reflex agent?,"An agent using transition model and sensor model.
+"
+How transition model and sensor model function in model-based reflex agent?,"allow an agent to keep track of the state of the world.
+"
+Which part in model-based reflex agent's structure is interesting?,"The function which is responsible for creating the new internal state description.
+"
+What does the model-based reflex agent's knowing of the current world actually is?,It represents the agent's â€œbest guessâ€
+What does goal information do to agents?,"It describes situations that are desirable.
+"
+How a goal-based agent appears being more flexible?,"It may appears less efficient.
+"
+What does a utility function do when there are conflicting goals?,"It specifies the appropriate tradeoff.
+"
+What does a utility function do when there are several goals that the agent can aim for?,"It provides a way in which the likelihood of success can be weighed against the importance of the goals.
+"
+How can we say technically about a rational utility-based agent?,It chooses the action that maximizes the expected utility of the action outcomesâ€”that is
+What will happen if an agent possesses an explicit utility function?,"It can make rational decisions with a general-purpose algorithm that does not depend on the specific utility function being maximized.
+"
+What is hard in utility-based function?,"A utility-based agent has to model and keep track of its environment; Choosing the utility-maximizing course of action.
+"
+What is the advantage for agent to learn?,"It allows the agent to operate in initially unknown environments and to become more competent than its initial knowledge alone might allow.
+"
+What is the conceptual components for a learning agent?,"Learning element; Performance element; Critic; Problem Generator.
+"
+What does the learning element in the components for a learning agent do?,"It is responsible for making improvements.
+"
+What does the performance element in the components for a learning agent do?,"It is responsible for selecting external actions.
+"
+What does the critic in the components for a learning agent do?,"The critic tells the learning element how well the agent is doing with respect to a fixed performance standard.
+"
+How should we think when we are trying to design an agent that learns a certain capability?,"The first question is not â€œHow am I going to get it to learn this?â€ but â€œWhat kind of performance element will my agent use to do this once it has learned how?â€ 
+"
+Why critic is necessary for a learning agent?,"The percepts themselves provide no indication of the agent's success. 
+"
+What does the problem generator in the components for a learning agent do?,"It is responsible for suggesting actions that will lead to new and informative experiences.
+"
+What will happen if an agent is willing to explore a little and do some perhaps suboptimal actions in the short run?,"It might discover much better actions for the long run.
+"
+What is needed when we are trying to learn a reflex component or a utility function?,"Information from the external standard.
+"
+What does the performance standard distinguishes part of the incoming percept as?,"A reward or penalty that provides direct feedback on the quality of the agent's behavior.
+"
+How can we rank the representations of task environments in their expressiveness?,Atomic
+What does a particular agent component that deals with â€œWhat my actions doâ€ do?,It describes the changes that might occur in the environment as the result of taking an action
+What happens in an atomic representation?,"Each state of the world is indivisibleâ€”it has no internal structure.
+"
+What are the examples of areas work with atomic representations?,Search and game-playing
+What does a factored representation do?,It splits up each state into a fixed set of variables or attributes
+What are the examples of areas work with factored representations?,Constraint satisfaction algorithms
+What happens in a structured representation?,"Objects and their various and varying relationships can be described explicitly
+"
+When we need the structured representation?,When we need to understand the world as having things in it that are related to each other
+What are the examples of areas work with structured representations?,Relational databases and first-order logic
+How reasoning and learning changes following to the expressive power of the representation of an agent's environment?,"Reasoning and learning become more complex as the expressive power of the representation increases.
+"
+How can we gain the benefits of expressive representations of agent environments while avoiding their drawbacks?,"Intelligent systems for the real world may need to operate at all points along the axis simultaneously
+"
+What happens in a localist representation?,"There is a one-to-one mapping between concepts and memory locations.
+"
+What happens in a distributed representation?,The representation of a concept is spread over many memory locations
+Which representations are more robust against noise and information loss, localist one or distributed one?
+What bad situation might happen using localist representations?,The mapping from concept to memory location is arbitrary
+What is the definition of problem-solving agent?,"An agent that need to plan ahead: to consider a sequence of actions that form a path to a goal state.
+"
+What is the definition of search?,"The computational process that a problem-solving agent undertakes.
+"
+What representations do Problem-solving agents use?,"Atomic representations.
+"
+What happens to informed algorithms?,"The agent can estimate how far it is from the goal.
+"
+What happens to uninformed algorithms?,"The agent cannot estimate how far it is from the goal.
+"
+What is the four-phrase problem-solving process?,"Goal formulation; problem formulation; Search; Execution.
+"
+What an agent does in goal formulation phase?,"The agent adopts the goal of a task.
+"
+How does the goals act in an agent's goal formulation phase?,"Goals organize behavior by limiting the objectives and hence the actions to be considered.
+"
+What an agent does in problem formulation phase?,"The agent devises a description of the states and actions necessary to reach the goalâ€”an abstract model of the relevant part of the world.
+"
+What an agent does in search phase?,Before taking any action in the real world
+What is the definition of solution for problem-solving agent?,"A sequence of actions that reaches the goal.
+"
+What an agent does in execution phase?,The agent excute the actions in the solution
+How is the solution in a fully observable, deterministic
+What open-loop system is by the control theorists?,"A system ignoring the percepts breaks the loop between agent and environment.
+"
+Which loop is more safer for a problem-solving agent, open-loop or closed-loop?
+How is the solution in a partially observable or nondeterministic environment?,"A solution would be a branching strategy that recommends different future actions depending on what percepts arrive.
+"
+What is the definition of the state space?,"A set of possible states that the environment can be in.
+"
+What is the definition of the initial state?,"The state that the agent starts in.
+"
+What is the definition of the goal states?,"A set of states that are goals to the agent.
+"
+What is the definition of transition model to problem-solving agent?,"A model which describes what each action does.
+"
+What is the definition of action cost function?,"A function reflects an agent's own performance measure.
+"
+What is the definition of a search problem?,The combination of a state space
+What is the definition of an optimal solution?,"The solution having the lowest path cost.
+"
+What is the possible meaning of model?,An abstract mathematical description
+What is the definition of abstraction?,"The process of removing detail from a representation.
+"
+How can we say an abstraction is good?,"It involves removing as much detail as possible while retaining validity and ensuring that the abstract actions are easy to carry out.
+"
+What will happen if we don't have the ability to construct useful abstractions?,"The intelligent agents would be completely swamped by the real world.
+"
+What is the definition of standardized problem?,"It is intended to illustrate or exercise various problem-solving methods.
+"
+How can researchers use a standardized problem?,"A standardized problem is suitable as a benchmark for researchers to compare the performance of algorithms.
+"
+What is the definition of real-world problem?,It is one whose solutions people actually use
+What is a grid world problem?,"It is a two-dimensional rectangular array of square cells in which agents can move from cell to cell.
+"
+What agents can do to objects in cells in a grid world problem?,Cells can contain objects
+What wall or impassible obstacles do in a grid world problem?,"Those things in a cell prevents an agent from moving into that cell.
+"
+What is the example of a grid world problem?,"Sokoban puzzle.
+"
+What is a sokoban puzzle?,It is a puzzle that the agent's goal is to push a number of boxes
+What is a sliding-tile puzzle?,"It is a puzzle that a number of tiles (sometimes called blocks or pieces) are arranged in a grid with one or more blank spaces so that some of the tiles can slide into the blank space.
+"
+What is a touring problem?,It is a problem that describes a set of locations that must be visited
+What is the traveling salesperson problem (TSP)?,"It is a touring problem in which every city on a map must be visited.
+"
+What does a VLSI layout problem requires?,"It requires positioning millions of components and connections on a chip.
+"
+What does a VLSI layout problem aims to?,It aims to minimize area
+How does the VLSI layout problem be splited?,"It is split into two parts: cell layout and channel routing.
+"
+What is the difference of robot navigation from following distinct paths?,A robot can roam around
+What problem do real robots must also deal with in robot navigation?,Their sensor readings and motor controls
+Since when does the automatic assembly sequencing of complex objects (such as electric motors) by a robot have been standard industry practice?,"1970s.
+"
+What is protein design?,It is an assembly problem
+What is the definition of search algorithm?,A search algorithm takes a search problem as input and returns a solution
+What does a node in a search tree corresponds to?,"A state in the state space.
+"
+What does an edge in a search tree corresponds to?,"An action.
+"
+What does the root in a search tree corresponds to?,"The initial state of the problem.
+"
+What is the distinction of the state space from the search tree?,The state space describes the (possibly infinite) set of states in the world
+What is the distinction of the search tree from the state space?,The search tree describes paths between these states
+What is the process of expanding a node?,We can expand the node
+If A is a child node of B, what B is of A?
+What is the essence of search?,"Following up one option now and putting the others aside for later.
+"
+How can we say a node is reached?,"The node has had a node generated for it.
+"
+What is best-first search?,We choose a node
+What is node?,"A node in the tree is represented by a data structure with four components: State; Parent; Action; Path cost.
+"
+What is the componenets of a node?,"State; Parent; Action; Path cost.
+"
+What is queue?,"A data structure used to store the frontier.
+"
+What are the possible operations on a frontier?,"check whether it is empty; remove the top node; return the top node; insert node into proper place
+"
+What is a priority queue?,A kind of queue which first pops the node with the minimum cost according to some evaluation function
+Where does a priority queue might be used?,"It is used in best-first search.
+"
+What is a first-in-first-out (FIFO) queue?,"A kind of queue which  first pops the node that was added to the queue first.
+"
+Where does a FIFO queue might be used?,"It is used in breadth-first search.
+"
+What is a last-in-first-out (LIFO) queue?,"A kind of queue which  first pops the node that was added most recently to the queue.
+"
+Where does a LIFO queue might be used?,"It is used in depth-first search.
+"
+What is the example of loopy path in a search?,"The search goes repeatedly between two states.
+"
+what is the possible consequence if loopy path occurs in a search?,"The complete search tree is infinite.
+"
+What should be eliminated in the search?,"Redundant paths.
+"
+What possible methods can be used to eliminate redundant paths?,"Remember all previously reached states to detect redundant paths; do not consider it for minor problem formulations; only check for cycles but not for redundant paths in general.
+"
+What is a graph search?,"A search algorithm which checks for redundant paths.
+"
+What is a tree-like search?,"A search algorithm which does not check for redundant paths.
+"
+What is an example of graph search algorithm?,"The Brst-First-Search algorithm.
+"
+What are the evaluation methods on an algorithmâ€™s performance?,"Completeness; Cost optimality; Time complexity; Space complexity.
+"
+What does Completeness evaluates specificly on an algorithm's performance?,Is the algorithm guaranteed to find a solution when there is one
+What does Cost optimality evaluates specificly on an algorithm's performance?,"Does it find a solution with the lowest path cost of all solutions?
+"
+What does Time complexity evaluates specificly on an algorithm's performance?,How long does it take to find a solution? This can be measured in seconds
+What does Space complexity evaluates specificly on an algorithm's performance?,"How much memory is needed to perform the search?
+"
+What kind of search algorithm will be complete?,A search algorithm which is systematic in the way it explores an infinite state space
+What evaluation methods on an algorithmâ€™s performance are considered with respect to some measure of the problem difficulty?,"Time and space complexity.
+"
+What variables can we use in measuring the complexity of an algorithm?,d
+What is an informed search strategy?,"One that uses domain-specific hints about the location of goals.
+"
+What is heuristic function?,"The estimated cost of the cheapest path from the state at node n to a goal state.
+"
+What is Greedy best-first search?,"Greedy best -first search is a form of best-first search that expands first the node with the lowest value on the grounds that this is likely to lead to a solution quickly.
+"
+Why the algorithm is called â€œgreedyâ€?,On each iteration it tries to get as close to a goal as it can
+What is A* search?,"A* search is a best-first search that uses the evaluation function f(n) = g(n) + h(n).
+"
+What is g(n)?,"g(n) is the path cost from the initial state to node n.
+"
+What is f(n)?,"f(n) is the estimated cost of the best path that continues from n to a goal.
+"
+What is the properties of A* search?,A* search is complete
+What is the drawback of A* search?,"A* search uses a lot of space and memory.
+"
+What is an admissible heuristic?,"An admissible heuristic is one that never overestimates the cost to reach a goal. 
+"
+What is a contour?,"A contour is a useful way to visualize a search by drawing it in the state space.
+"
+Does uniform-cost search has contours?,Yes
+What does the contours with uniform-cost search look like?,The contours with uniform-cost search will be â€œcircularâ€ around the start state
+What is satisficing solutions?,Satisficing solutions are when we accept solutions that are suboptimal
+What is bounded suboptimal search?,"We look for a solution that is guaranteed to be within a constant factor W of the optimal cost.
+"
+Which algorith provides bounded suboptimal search?,"Weighted A* provides bounded suboptimal search.
+"
+What is bounded-cost search?,"We look for a solution whose cost is less than some constant C.
+"
+What is unbounded-cost search?,We accept a solution of any cost
+What is the example of an unbounded-cost search algorithm?,"An example of an unbounded-cost search algorithm is speedy search.
+"
+What is speedy search?,The speedy search is a version of greedy best-first search that uses as a heuristic the estimated number of actions required to reach a goal
+What is Iterative-deepening A* search?,"Iterative-deepening A* search (IDA*) is to A* what iterative-deepening search is to depthfirst.
+"
+What is the benefits of Iterative-deepening A* search?,Iterative-deepening A* search gives us the benefits of A* without the requirement to keep all reached states in memory
+What is recursive best-first search?,Recursive best-first search attempts to mimic the operation of standard best-first search
+What is beam search?,Beam search puts a limit on the size of the frontier; that makes it incomplete and suboptimal
+How to construct good heuristics?, One can sometimes construct good heuristics by relaxing the problem definition
+How do local search algoritms function?,Local search algorithms operate by searching from a start state to neighboring states
+Are local search algoritms systematic?,No
+What are the advantages of local search algorithms?,"They use very little memory; and they can often find reasonable solutions in large or infinite state spaces for which systematic algorithms are unsuitable.
+"
+What is hill-climbing search algorithm?,"The hill-climbing search algorithm keeps track of one current state and on each iteration moves to the neighboring state with highest value.
+"
+Why hill climbing is called greedy local search?,"Hill climbing is called greedy local search because it grabs a good neighbor state without thinking ahead about where to go next.
+"
+What is the drawback of hill climbing?,Hill climbing can get stuck when it reaches local maxima
+What is a local maximum?,"A local maximum is a peak that is higher than each of its neighboring states but lower than the global maximum.
+"
+What is a plateau?,"A plateau is a flat area of the state-space landscape.
+"
+What are the examples of plauteau?,A plauteau is a flat local maximum
+What is stochastic hill climbing?,"Stochastic hill climbing  chooses at random from among the uphill moves; the probability of selection can vary with the steepness of the uphill move. 
+"
+What is first-choice hill climbing?,"A first-choice hill climbing implements stochastic hill climbing by generating successors randomly until one is generated that is better than the current state.
+"
+What is random-restart hill climbing?,A random-restart hill climbing conducts a series of hill-climbing searches from randomly generated initial states
+How to get a success hill climbing?,A success hill climbing depends very much on the shape of the state-space landscape: if there are few local maxima and plateaus
+What is simulated annealing?,"A simulated annealing combines hill climbing with a random walk in a way that yields both efficiency and completeness.
+"
+What is annealing?,Annealing is the process used to temper or harden metals and glass by heating them to a high temperature and then gradually cooling them
+What is local beam search?,"The local beam search algorithm keeps track of k states rather than just one. 
+"
+How does the local beam search operate?,It begins with k randomly generated states. At each step
+What is evolutionary algoritms?,"Evolutionary algorithms can be seen as variants of stochastic beam search that are explicitly motivated by the metaphor of natural selection in biology.
+"
+What is genetic algorithm?,Genetic algorithms are similar to stochastic beam search
+When is the genetic algorithm advantageous?,"Genetic algorithm is advantageous when there are blocks that perform useful functions.
+"
+What are empirical gradient methods?,"Empirical gradient methods are methods that measure progress by the change in the value of the objective function between two nearby points
+"
+What is a belief state?," A belief state is a set of physical states that the agent believes are possible.
+"
+What is a sensorless problem?,"A sensorless problem is when the agentâ€™s percepts provide no information at all.
+"
+What are offline search algorithms?,"Offline search algorithms compute a complete solution before taking their first action.
+"
+What are online search algorithms?,Online search algorithms take an action first
+How is an online search problem solved?,An online search problem is solved by interleaving computation
+What is competitive ratio?,"Competitive ratio is the comparison of the cost with the path cost the agent would incur if it knew the search space in advance.
+"
+What are dead ends?,"Dead ends are states from which no goal state is reachable.
+"
+What is the meaning of safely explorable?,"Safely explorable is when some goal state is reachable from every reachable state. 
+"
+What is random walk?,"A random walk simply selects at random one of the available actions from the current state
+"
+What are competitive environments?,"Competitive environments are in which two or more agents have conflicting goals. 
+"
+What is an economy?,"An economy is to consider a very large number of agents in the aggregate.
+"
+What are the examples of games that include an element of chance?,"The examples are rolling dice or shuffling cards.
+"
+What are the examples of games of imperfect information?,The examples are poker and bridge
+What is perfect information?,"Perfect information is when the game is fully observable.
+"
+What is zero-sum?,"â€œZero-sumâ€ means that what is good for one player is just as bad for the other: there is no â€œwin-winâ€ outcome.
+"
+What are the formally defined elements of a game?,A game can be formally defined with initial state
+What is a terminal test?,"A terminal test is true when the game is over and false if otherwise.
+"
+What is terminal states?,"Terminal states are states where the game has ended.
+"
+What is a utility function?,"A utility function defines the final numeric value to player p when the game ends in terminal state s.
+"
+What are the other names of a utility function?,"The other names of a utility function are an objective function or payoff function.
+"
+What is a state space graph?,A state space graph is a graph where the vertices are states
+When do we use minimax search?,"We uses minimax search for games with multiple outcome scores.
+"
+What is ply?,Ply is used to unambiguously mean one move by one player
+What is the minimax search algorithm?,"The minimax search algorithm finds the best move for MAX by trying all actions and choosing the one whose resulting state has the highest MINIMAX value.
+"
+Is the minimax search algorithm recursive?,Yes
+What is the time complexity for the minimax search algorithm?,"The time complexity of the minimax algorithm is O(b^m) if the maximum depth of the tree is m and there are b legal moves at each point.
+"
+What is alphaâ€“beta pruning?,"The alphaâ€“beta pruning is the particular technique when we compute the correct minimax decision without examining every state by pruning large parts of the tree that make no difference to the outcome.
+"
+What is Type A strategy?,A Type A strategy considers all possible moves to a certain depth in the search tree
+What is Type B strategy?,A Type B strategy ignores moves that look bad
+What is the difference between the Type A strategy and Type B strategy?,Type A strategy explores a wide but shallow portion of the tree
+What is the example of games with Type A strategy?,"Most of the chess programs have been Type A strategy.
+"
+What is the example of games with Type B strategy,"Most of the Go programs are more often Type B strategy.
+"
+What is forward pruning?,A forward pruning prunes moves that appear to be poor moves
+Why we use Monte Carlo tree search?,We use Monte Carlo tree search because  alphaâ€“beta search would be limited to only 4 or 5 ply and 
+What are sto4chastic games?,Stochastic games bring us a little closer to the unpredictability of real life by including a random element
+What is the example of stochastic games?,"Backgammon is a typical stochastic game that combines luck and skill. 
+"
+What are partially obsercable games?,"Partially observable games  includes the use of scouts and spies to gather information and the use of concealment and bluff to confuse the enemy.
+"
+What are the examples of partially obsercable games?,"Video games such as StarCraft is the example of partially obsercable game.
+"
+What are stochastic partial observable games?,"Stochastic partial observable games are where the missing information is generated by the random dealing of cards.
+"
+What are the examples of stochastic partial observable games?,Card games such as bridge
+When is Monte Carlo search preferred?,When the branching factor is high or it is difficult to define an evaluation function
+What is the limitation of alphaâ€“beta search?,"The limitation of alphaâ€“beta search is its vulnerability to errors in the heuristic function.
+"
+What is the limitation of Monte Carlo search?,"The limitation of Monte Carlo is that it is designed to calculate the values of legal moves. 
+"
+What is metareasoning?,"Metareasoning is the kind of reasoning about what computations to do.
+"
+What is a constraint satisfaction problem?,"A constraint satisfaction problem is A problem that is solved when each variable has a value that satisfies all the constraints on the variable.
+"
+What are the components of a constraint satisfaction problem?,The three components are a set of variables (X)
+What is a consistent or legal assignment?,"A consistent or legal assignment is an assignment that does not violate any constraints.
+"
+What is a complete assignment?,"A complete assignment is one in which every variable is assigned a value.
+"
+What is a solution to a CSP?,A solution to a CSP is a consistent
+What is a partial assignment?,"A partial assignment is one that leaves some variables unassigned.
+"
+What is a partial solution?,"A partial solution is a partial assignment that is consistent.
+"
+Why do we formulate a problem as a CSP?,"One reason is that the CSPs yield a natural representation for a wide variety of problems; it is often easy to formulate a problem as a CSP.
+"
+What are linear constraints?,"Linear constraints are  constraints in which each variable appears only in linear form. 
+"
+What is unary constraint?,"A unary constraint restricts the value of a single variable. 
+"
+What is a global constraint?,"A global constraint is a constraint involving an arbitrary number of variables.
+"
+What is constraint propagation?,It is using the constraints to reduce the number of legal values for a variable
+What is node-consistency?,"A single variable is node-consistent if all the values in the variableâ€™s domain satisfy the variableâ€™s unary constraints. 
+"
+What is arc-consistent?,"A variable in a CSP is arc-consistent if every value in its domain satisfies the variableâ€™s binary constraints. 
+"
+What is the example of algorithm that enforce arc consistency?,"The most popular algorithm for enforcing arc consistency is called AC-3. 
+"
+What can path consistency do?,"Path consistency tightens the binary constraints by using implicit constraints that are inferred by looking at triples of variables.
+"
+What is minimum-remaining-values?,"Minimum-remaining-value is the idea of choosing the variable with the fewest â€œlegalâ€ values.
+"
+What can degree heuristic do?,"Degree heuristic attempts to reduce the branching factor on future choices by selecting the variable that is involved in the largest number of constraints on other unassigned variables.
+"
+What can the least-constraining-value heuristic do?,"The least-constraining-value heuristic prefers the value that rules out the fewest choices for the neighboring variables in the constraint graph.
+"
+What is the policy of backtracking-search algorithm?,"The backtracking-search algorithm backs up to the preceding variable and try a different value for it. 
+"
+What is a backjumping method?,"A backjumping method backtracks to the most recent assignment in the conflict set.
+"
+What happens to the algorithm when no legal value is found?,When no legal value is found
+What is constraint learning?,"Constraint learning is the idea of finding a minimum set of variables from the conflict set that causes the problem.
+"
+How can independence be ascertained?,"Independence can be ascertained simply by finding connected components of the constraint graph. 
+"
+What is a topological sort?,A topological sort is the ordering of picking any variable to be the root of the tree first
+What is a tree decomposition?,"A tree decomposition is a transformation of the original graph into a tree where each node in the tree consists of a set of variable.
+"
+What is the example of the requirements of a tree decomp7osition?,"One of the examples is every variable in the original problem appears in at least one of the tree nodes.
+"
+What is an axiom?,"An axiom is the sentencet that is taken as being given without being derived from other sentences.
+"
+What is an inference?,"An inference is deriving new sentences from old.
+"
+What requirement should inference obey?, Inference must obey the requirement that when one asks a question of the knowledge base
+What is the wumpus world?,"The wumpus world is a cave consisting of rooms connected by passageways.
+"
+What is semantics?,Semantics are the meaning of sentences
+What is grounding?,"Grounding is the connection between logical reasoning processes and the real environment in which the agent exists.
+"
+What is theorem prooving?,"Theorem prooving is applying rules of inference directly to the sentences in our knowledge base to construct a proof of the desired sentence without consulting models. 
+"
+When is a sentence valid?,"A sentence is valid if it is true in all models. 
+"
+When is a sentence satisfiable?,A sentence is satisfiable if it is true in
+What is monotonicity?,"A monotonicity says that the set of entailed sentences can only increase as information is added to the knowledge base.
+"
+What do the algorithm do in early termination?,The algorithm detects whether the sentence must be true or false
+What is a pure symbol?,"A pure symbol is a symbol that always appears with the ame â€œsignâ€ in all clauses. 
+"
+What is a unit clause?,"A unit clause was a clause with just one literal. 
+"
+What is unit propagation?,Unit propagation resembles the process of forward chaining with definite clauses
+What are atemporal variables?,"Atemporal variables are symbols associated with permanent aspects of the world that do not need a time superscript.
+"
+What is the representational frame problem?,"The representational frame problem is the specific manifestation of the frame problem.
+"
+How is knowledge contained?,"Knowledge is contained in agents in the form of sentences in a knowledge representation language that are stored in a knowledge base.
+"
+Why do intelligent agents need knowledge?,"Intelligent agents need knowledge about the world in order to reach good decisions.
+"
+How is a representation language defined?,A representation language is defined by its syntax
+Why is the relationship of entailment between sentences is crucial?,"The relationship of entailment between sentences is crucial to our understanding ofreasoning.
+"
+What is sound inference?,"Sound inference algorithms derive only sentences that are entailed.
+"
+What are complete algorithms?," Complete algorithms derive all sentences that are entailed.
+"
+What is propositional logic?,"Propositional logic is a simple language consisting of proposition symbols and logical connectives.
+"
+What can propositional logic do?,Propositional logic can handle propositions that are known to be true
+What are inference rules?,"Inference rules are patterns of sound inference that can be used to find proofs. 
+"
+What is the resolution rule?,"The resolution rule yields a complete inference algorithm for knowledge bases that are expressed in conjunctive normal form.
+"
+What are the natural reasoning algorithms for knowledge bases in Horn form?," Forward chaining and backward chaining are very natural reasoning algorithms for knowledge bases in Horn form.
+"
+What is a logical state estimation?,"Logical state estimation involves maintaining a logical sentence that describes the set of possible states consistent with the observation history. 
+"
+What do each update step of logical state estimation require?,Each update step requires inference using the transition model of the environment
+How decisions within a logical agent can be made by SAT solving?,"It works by finding possible models specifying future action sequences that reach the goal.  
+"
+Why does propositional logic do not scale to environments of unbounded size?,This is because e it lacks the expressive power to deal concisely with time
+How should knowledge representation languages be?,Knowledge representation languages should be declarative
+How does logic differs?,"Logics differ in their ontological commitments and epistemological commitments.
+"
+What is the difference in propositional logic and first-order logic?,While propositional logic commits only to the existence of facts
+What is the similarity of propositional logic and first-order logic?,"Both propositional logic and first-order logic share a difficulty in representing vague propositions. 
+"
+How does the difficulty in representing vague  propositions affect both  propositional logic and first-order logic?,The difficulty limits their applicability in domains that require personal judgments
+What does the syntax of first-order logic does?,It adds terms to represent objects
+What does a possible world, or model
+When is an atomic sentence true?,"An atomic sentence is true only when the relation named by the predicate holds between the objects named by the terms. 
+"
+What can extended interpretations do?,Extended interpretations
+What is the process of developing a knowledge base in first-order logic?,Developing a knowledge base in first-order logic requires a careful process of analyzing the domain
+What is AI?,"Artificial Intelligence (AI) is the part of computer science concerned with designing intelligent computer systems.
+"
+What do the branches of AI have?,NLP
+What is the Turing Test?,"Alan Turing devised a test for intelligence called the Imitation Game in.
+"
+What capabilities would the AI need?,Natural language processing
+What are the cental goals of AI research?,Reasoning
+What is reasoning?,The reasoning is the mental process of deriving logical conclusion and making predictions from available knowledge
+What types of reasoning are there?,Deductive
+What is Deductive reasoning?,"Deductive reasoning is deducing new information from logically related known information.
+"
+What is Inductive reasoning?,"Inductive reasoning is a form of reasoning to arrive at a conclusion using limited sets of facts by the process of generalization.
+"
+What is Abductive reasoning?,"Abductive reasoning is a form of logical reasoning which starts with single or multiple observations then seeks to find the most likely explanation or conclusion for the observation.
+"
+What is Common Sense?,Common sense reasoning is an informal form of reasoning
+How Intelligence applications should behave?,Intelligence applications are expected to respond to stimulation consistent with traditional responses from humans
+What three ways of thinking do we need to learn in artificial intelligence?,Introspection
+What is Itrospection?,"Trying to catch our own thoughts as they go by.
+"
+What is psychological experiments?,"Observing a person in action.
+"
+What is brain imaging?,"Observing the brain in action.
+"
+What is rational behavior?,"Doing the right thing!
+"
+What is the right thing?,It is expected to maximize goal achievement
+What are the advantages of studying AI as rational agent?,It is more general than using logic only
+What are the main roles that AI plays?,"Study the intelligent part concerned with humans. Represent those actions using computers.
+"
+What is True AI?,True A.I. can improve on past iterations
+What do the currently popular approaches have?,Currently popular approaches include statistical methods
+What is the relationship among AI, ML
+What are the advantages of AI?,Reduces in human error
+What are the disadvantages of AI?,Cost overruns
+What is knowledge?,"Knowledge is a collection of information about a domain that can be used to solve problems within a domain.
+"
+What are the organization of konwledge?,Wisdom
+What is declarative knowledge?,Declarative knowledge is to know about something. It includes concepts
+What is procedural Knowledge?,"Procedural knowledge is a type of knowledge which is responsible for knowing how to do something.
+"
+What is heuristic konwledge?,Heuristic knowledge is rules of thumb based on previous experiences
+What is structural knowledge?,"It describes relationships between various concepts and the relationship that exists between concepts or objects.
+"
+What is Meta-knowledge?,"It is not specific to any single domain but aims to describe the structure of the data present in the knowledge systems.
+"
+What is logical representation?,"Logical representation is a language that is free from ambiguity issue.
+"
+What categories can logical representation be divided into?,"Propositional and predicate.
+"
+What is proposition?,"It is a sentence that is either true or false.
+"
+What is semantic network?,"A semantic network or net -graph structure is used to represent knowledge in patterns of interconnected nodes and arcs.
+"
+What do the production rules consist of?,"IF(condition) and THEN(action).
+"
+What are the advantages of production rule?,"The production rules are expressed in natural language. The production rules are expressed in natural language.
+"
+What are the disadvantages of production rule?,Production rule system does not exhibit any learning capabilities
+What is Knowledge-based System?,"A knowledge-based system (KBS) is a form of artificial intelligence (AI) that aims to capture the knowledge of human experts to support decision-making.
+"
+What is medical expert system?,"An expert system is a computer program that represents and reasons with knowledge of some specialist subject with a view to solving problems or giving advice.
+"
+What do the typical tasks for expert system have?,The interpretation of data
+What do the complex decisions invovle?,"Complex decisions involve intricate combination of factual and heuristic knowledge.
+"
+What do the structure of expert system reflect?,"The structure of expert systems reflect the knowledge engineers understanding of the methods of representing knowledge and of how to perform intelligent decision making tasks with the support of a computer based system.
+"
+What is backward chaining?,"Backward chaining starts from the goal and works backward through inference rules to find the required facts that support the goal.
+"
+What is the research strategy of backward chaining reasoning?,"Backward chaining reasoning applies a depth-first search strategy.
+"
+What does the backward chaining apply to?,It is suitable for diagnostic
+What is forward chaining?,"Forward chaining starts from known facts and applies inference rule to extract more data unit it reaches to the goal.
+"
+What is the research strategy of forward chaining reasoning?,"Forward chaining reasoning applies a breadth-first search strategy.
+"
+What does the forward chaining apply to?,It is suitable for the planning
+What is knowledge engineering?,"The process of building an expert system is called knowledge engineering and is done by a knowledge engineer.
+"
+What is knowledge engineer?,"The knowledge engineer is a human with a background in computer science and AI and he knows how to build expert systems.
+"
+What is knowledge engineering?,"Knowledge engineering is the acquisition of knowledge from a human expert or any other source.
+"
+What is Five-in-row system?,"Five-in-row system is normally is implemented as a board game.
+"
+What is search?,"Search is a about exploring alternatives.
+"
+What are the application of search?,Route finding
+What is category?,Incremental formulation
+What is incremental formulation?,This problem involves operators that augment the state description
+What is complete-state formulation?,"States are independent for each other.
+"
+What is toy problrm?,"A toy problem is intended to illustrate or exercise various problem-solving methods.
+"
+What is real-word problem?,"A real-world problem is one whose solutions people actually care about.
+"
+Whatâ€™re the conditions for searching?,Observable
+What is observable?,"You always know whatâ€™s going on currently.
+"
+What is discrete?,Given any state
+What is known?,"The agent knows which states are reached by performing the corresponding action.
+"
+What is deterministic?,"Each action has exactly one outcome.
+"
+What are goodness of a search strategy?,Completeness
+How to formulate searching?,States
+What is states?,"The basic unit for searching.
+"
+What is initial state?,"The state that the agent starts in.
+"
+What is action?,"The operations that you can perform for the current state.
+"
+What is transition model?,"The outcome of actions.
+"
+What is goal test?,"Which determines whether a state is a goal state.
+"
+What is path cost?,"Assign a numeric cost to each path.
+"
+How to solve searching problems?,A solution is an action sequence
+What dose a graph consist of?,"Nodes and arcs.
+"
+What dose the problem space consist of?,A state space
+Whatâ€™s uninformed Searching?,"While searching you have no clue whether one non-goal state is better than any other.
+"
+What is breadth-first search?,"Expand shallowest unexpanded node.
+"
+What is fringe?,Nodes waiting in a queue to be explored
+Does breadth-first search always find a solution if one exists?,"Yes.
+"
+Does breadth-first search always find the best (least-cost) solution?,Yes
+How long breadth-first search will take?,"1+b+b^2+b^3+â€¦ +b^d (nodes until the solution)
+"
+What is depth-first search?,"Expand deepest unexpanded node.
+"
+Does depth-first search always find a solution if one exists?,"No: fails in infinite-depth spaces.
+"
+How long depth-first search will take?,"O(b^m) with m=maximum depth
+"
+Does depth-first search always find the best (least-cost) solution?,"No (It may find a non-optimal goal first).
+"
+What is iterative deepening search?,"Run multiple DFS searches with increasing depth-limits.
+"
+Does iterative deepening  search always find a solution if one exists?,"Yes.
+"
+Does iterative deepening search always find the best (least-cost) solution?,"Only if path cost is a non-decreasing function of depth.
+"
+How long iterative deepening search will take?,"b + (b+b^2) + .......(b+....b^d)  = O(b^d).
+"
+What is uniform-cost search?,"Always expand the node on the fringe with minimum cost g(n).
+"
+Does uniform-cost search always find a solution if one exists?,"Yes.
+"
+Does uniform-cost search always find the best (least-cost) solution?,Yes
+How long uniform-cost search will take?,"of nodes with path cost â‰¤ cost of optimal solution.
+"
+How much space does uniform-cost search take to complete the run?,"of nodes with path cost â‰¤ cost of optimal solution.
+"
+How much space does iterative deepening search take to complete the run?,"O(bd)
+"
+How much space does depth-first search take to complete the run?,"O(bm)
+"
+How much space does breadth-first search take to complete the run?,O(b^d) (keeps every node in memory
+What is Artificial Intelligence?,"Artificial Intelligence means machines or computers doing tasks that usually need human intelligence, like learning or problem-solving."
+What is Machine Learning?,Machine Learning is when a computer learns from data and gets better at a task without being directly told what to do.
+What is Data Science?,"Data Science is about collecting, analyzing, and understanding data to find useful information or make decisions."
+Can you explain deep learning simply?,Deep learning is a part of machine learning where the computer uses structures like the human brain called neural networks to learn from data.
+What is a dataset?,"A dataset is a collection of data, often shown in a table, that a computer can learn from."
+Hi!,Hello! How can I help you today?
+Good morning,Good morning! Hope you have a great day!
+How are you?,"I'm just a bot, but I'm doing great! How can I help you?"
+Thank you,You're welcome!
+Bye,Goodbye! Have a nice day!
+What is the formula for the area of a circle?,The area of a circle is Ï€ Ã— radius squared (Ï€rÂ²).
+What is Pythagoras Theorem?,"In a right-angled triangle, the square of the hypotenuse is equal to the sum of the squares of the other two sides."
+Why do plants need sunlight?,Plants need sunlight to make their food using a process called photosynthesis.
+What is gravity?,"Gravity is the force that pulls objects towards each other, like how Earth pulls us to the ground."
+Who was Mahatma Gandhi?,Mahatma Gandhi was a leader in India's fight for independence from British rule using non-violence.
+What is the Industrial Revolution?,"The Industrial Revolution was a time when machines started being used to make things, starting in the 18th century."
+What is a noun?,"A noun is a word that names a person, place, thing, or idea."
+What is the opposite of 'happy'?,The opposite of 'happy' is 'sad'.
+Give an example of a adjective.,An example of a adjective is 'quickly'.
+Who was Mahatma Gandhi?,Mahatma Gandhi was known for discovering gravity.
+What is regression?,regression is a concept in science that helps us understand natural phenomena.
+Give an example of a adjective.,An example of a adjective is 'under the table'.
+Why is photosynthesis important?,photosynthesis is important because it helps with support life.
+What is feature engineering?,The concept of feature engineering is a basic idea in artificial intelligence that helps computers to learn from examples.
+What is the formula for circumference of a circle?,The formula for circumference of a circle is 2 Ã— Ï€ Ã— radius.
+What happened in Independence of India?,Independence of India was a major historical event where millions were affected.
+What is the formula for area of triangle?,The formula for area of triangle is sideÂ³.
+Why is gravity important?,gravity is important because it helps with help plants grow.
+Explain data preprocessing.,data preprocessing is a technique used in AI to help machines learn from examples.
+What happened in Independence of India?,Independence of India was a major historical event where it ended colonial rule.
+How do you solve a linear equation?,"To solve a linear equation, you need to factor the equation."
+Why is water important?,water is important because it helps with support life.
+What is the use of feature engineering in machine learning?,feature engineering helps a machine predict outcomes using data.
+What is the use of data preprocessing in machine learning?,data preprocessing helps a machine recognize images using data.
+What is a noun?,A noun is used in English to show the relationship between words.
+How do you solve a quadratic equation?,"To solve a quadratic equation, you need to apply the formula."
+Give an example of a adverb.,An example of a adverb is 'quickly'.
+What is a adjective?,A adjective is used in English to describe a noun.
+What is neural networks?,neural networks is a concept in science that helps us understand how things work.
+What is the formula for volume of a cube?,The formula for volume of a cube is aÂ² + bÂ² = cÂ².
+Who was Albert Einstein?,Albert Einstein was known for helping the poor.
+Give an example of a noun.,An example of a noun is 'under the table'.
+Who was Mahatma Gandhi?,Mahatma Gandhi was known for developing the theory of relativity.
+What is the formula for volume of a cube?,The formula for volume of a cube is 2 Ã— Ï€ Ã— radius.
+Give an example of a verb.,An example of a verb is 'quickly'.
+What happened in The French Revolution?,The French Revolution was a major historical event where it changed the political landscape.
+How do you solve a percentage problem?,"To solve a percentage problem, you need to apply the formula."
+How do you solve a percentage problem?,"To solve a percentage problem, you need to factor the equation."
+Who was Albert Einstein?,Albert Einstein was known for leading a non-violent movement.
+Why is gravity important?,gravity is important because it helps with support life.
+What is a adjective?,A adjective is used in English to modify a verb.
+What is a adverb?,A adverb is used in English to show the relationship between words.
+What is the formula for Pythagoras theorem?,The formula for Pythagoras theorem is sideÂ³.
+What is a adverb?,A adverb is used in English to name a person or thing.
+Why is air important?,air is important because it helps with help plants grow.
+Explain unsupervised learning.,unsupervised learning is a technique used in AI to help machines predict outcomes.
+What is the formula for Pythagoras theorem?,The formula for Pythagoras theorem is 2 Ã— Ï€ Ã— radius.
+How do you solve a linear equation?,"To solve a linear equation, you need to apply the formula."
+What is clustering?,The concept of clustering is a basic idea in artificial intelligence that helps computers to predict outcomes.
+Give an example of a noun.,An example of a noun is 'book'.
+How do you solve a quadratic equation?,"To solve a quadratic equation, you need to factor the equation."
+What happened in World War II?,World War II was a major historical event where it changed the political landscape.
+What is the formula for area of triangle?,The formula for area of triangle is 1/2 Ã— base Ã— height.
+Give an example of a adverb.,An example of a adverb is 'beautiful'.
+What is feature engineering?,feature engineering is a concept in science that helps us understand natural phenomena.
+What is a verb?,A verb is used in English to describe a noun.
+Who was Mahatma Gandhi?,Mahatma Gandhi was known for helping the poor.
+What happened in Independence of India?,Independence of India was a major historical event where it changed the political landscape.
+Why is photosynthesis important?,photosynthesis is important because it helps with help plants grow.
+What is a adjective?,A adjective is used in English to show the relationship between words.
+Give an example of a adverb.,An example of a adverb is 'run'.
+What is neural networks?,The concept of neural networks is a basic idea in artificial intelligence that helps computers to learn from examples.
+What is a adverb?,A adverb is used in English to show an action.
+How do you solve a quadratic equation?,"To solve a quadratic equation, you need to use algebra."
+What is the formula for area of triangle?,The formula for area of triangle is aÂ² + bÂ² = cÂ².
+What is neural networks?,The concept of neural networks is a basic idea in artificial intelligence that helps computers to predict outcomes.
+Why is water important?,water is important because it helps with maintain balance.
+What is natural language processing?,natural language processing is a concept in science that helps us understand how things work.
+What is unsupervised learning?,The concept of unsupervised learning is a basic idea in artificial intelligence that helps computers to learn from examples.
+What is neural networks?,neural networks is a concept in science that helps us understand natural phenomena.
+Give an example of a adverb.,An example of a adverb is 'book'.
+What is the use of natural language processing in machine learning?,natural language processing helps a machine predict outcomes using data.
+Give an example of a adverb.,An example of a adverb is 'under the table'.
+What is clustering?,clustering is a concept in science that helps us understand natural phenomena.
+Who was Isaac Newton?,Isaac Newton was known for helping the poor.
+What is regression?,The concept of regression is a basic idea in artificial intelligence that helps computers to identify patterns.
+Why is air important?,air is important because it helps with support life.
+What is natural language processing?,natural language processing is a concept in science that helps us understand natural phenomena.
+What is the use of neural networks in machine learning?,neural networks helps a machine learn from examples using data.
+Who was Mahatma Gandhi?,Mahatma Gandhi was known for leading a non-violent movement.
+What is data preprocessing?,data preprocessing is a concept in science that helps us understand natural phenomena.
+What is clustering?,The concept of clustering is a basic idea in artificial intelligence that helps computers to identify patterns.
+Explain feature engineering.,feature engineering is a technique used in AI to help machines learn from examples.
+Explain data preprocessing.,data preprocessing is a technique used in AI to help machines understand language.
+Explain unsupervised learning.,unsupervised learning is a technique used in AI to help machines recognize images.
+What is a adjective?,A adjective is used in English to show an action.
+What is the formula for circumference of a circle?,The formula for circumference of a circle is aÂ² + bÂ² = cÂ².
+What is a verb?,A verb is used in English to modify a verb.
+What is the formula for Pythagoras theorem?,The formula for Pythagoras theorem is 1/2 Ã— base Ã— height.
+What is unsupervised learning?,unsupervised learning is a concept in science that helps us understand natural phenomena.
+What is the formula for Pythagoras theorem?,The formula for Pythagoras theorem is aÂ² + bÂ² = cÂ².
+Give an example of a noun.,An example of a noun is 'run'.
+What is a noun?,A noun is used in English to modify a verb.
+Explain feature engineering.,feature engineering is a technique used in AI to help machines identify patterns.
+What is a noun?,A noun is used in English to name a person or thing.
+What is a verb?,A verb is used in English to show the relationship between words.
+What is the formula for circumference of a circle?,The formula for circumference of a circle is 1/2 Ã— base Ã— height.
+What is data preprocessing?,The concept of data preprocessing is a basic idea in artificial intelligence that helps computers to understand language.
+What is unsupervised learning?,unsupervised learning is a concept in science that helps us understand how things work.
+What is supervised learning?,The concept of supervised learning is a basic idea in artificial intelligence that helps computers to identify patterns.
+Explain regression.,regression is a technique used in AI to help machines identify patterns.
+What happened in The French Revolution?,The French Revolution was a major historical event where it ended colonial rule.
+Explain regression.,regression is a technique used in AI to help machines learn from examples.
+How do you solve a percentage problem?,"To solve a percentage problem, you need to use algebra."
+What is a noun?,A noun is used in English to describe a noun.
+Why is air important?,air is important because it helps with maintain balance.
+What is natural language processing?,The concept of natural language processing is a basic idea in artificial intelligence that helps computers to predict outcomes.
+What is data preprocessing?,The concept of data preprocessing is a basic idea in artificial intelligence that helps computers to predict outcomes.
+What is natural language processing?,The concept of natural language processing is a basic idea in artificial intelligence that helps computers to understand language.
+What happened in World War II?,World War II was a major historical event where it ended colonial rule.
+What is supervised learning?,supervised learning is a concept in science that helps us understand natural phenomena.
+What is a noun?,A noun is used in English to show an action.
+What is a preposition?,A preposition is used in English to describe a noun.
+What is the use of feature engineering in machine learning?,feature engineering helps a machine recognize images using data.
+What is the use of clustering in machine learning?,clustering helps a machine recognize images using data.
+Explain natural language processing.,natural language processing is a technique used in AI to help machines identify patterns.
+Explain clustering.,clustering is a technique used in AI to help machines recognize images.
+What is clustering?,The concept of clustering is a basic idea in artificial intelligence that helps computers to understand language.
+Who was Mother Teresa?,Mother Teresa was known for leading a non-violent movement.
+What is regression?,regression is a concept in science that helps us understand how things work.
+Why is water important?,water is important because it helps with help plants grow.
+Give an example of a verb.,An example of a verb is 'under the table'.
+What happened in The French Revolution?,The French Revolution was a major historical event where millions were affected.
+What happened in World War II?,World War II was a major historical event where millions were affected.
+Who was Isaac Newton?,Isaac Newton was known for discovering gravity.
+Explain supervised learning.,supervised learning is a technique used in AI to help machines understand language.
+What is clustering?,clustering is a concept in science that helps us understand how things work.
+What is the use of unsupervised learning in machine learning?,unsupervised learning helps a machine identify patterns using data.
+Explain neural networks.,neural networks is a technique used in AI to help machines predict outcomes.
+Give an example of a adjective.,An example of a adjective is 'book'.
+What is supervised learning?,The concept of supervised learning is a basic idea in artificial intelligence that helps computers to learn from examples.
+Explain natural language processing.,natural language processing is a technique used in AI to help machines understand language.
+What is the use of natural language processing in machine learning?,natural language processing helps a machine learn from examples using data.
+What is the use of neural networks in machine learning?,neural networks helps a machine identify patterns using data.
+What is data preprocessing?,The concept of data preprocessing is a basic idea in artificial intelligence that helps computers to identify patterns.
+What is a adverb?,A adverb is used in English to describe a noun.
+What is a verb?,A verb is used in English to show an action.
+What is the use of feature engineering in machine learning?,feature engineering helps a machine learn from examples using data.
+Who was Mother Teresa?,Mother Teresa was known for helping the poor.
+What is the formula for volume of a cube?,The formula for volume of a cube is sideÂ³.
+What is the use of supervised learning in machine learning?,supervised learning helps a machine understand language using data.
+What is unsupervised learning?,The concept of unsupervised learning is a basic idea in artificial intelligence that helps computers to recognize images.
+Who was Mother Teresa?,Mother Teresa was known for discovering gravity.
+What is the use of clustering in machine learning?,clustering helps a machine predict outcomes using data.
+What is the use of regression in machine learning?,regression helps a machine identify patterns using data.
+Explain regression.,regression is a technique used in AI to help machines recognize images.
+Explain supervised learning.,supervised learning is a technique used in AI to help machines identify patterns.
+What is the use of feature engineering in machine learning?,feature engineering helps a machine understand language using data.
+What is the use of supervised learning in machine learning?,supervised learning helps a machine recognize images using data.
+Why is gravity important?,gravity is important because it helps with maintain balance.
+What is the use of natural language processing in machine learning?,natural language processing helps a machine understand language using data.
+How do you solve a linear equation?,"To solve a linear equation, you need to use algebra."
+What is the formula for volume of a cube?,The formula for volume of a cube is 1/2 Ã— base Ã— height.
+What is the formula for circumference of a circle?,The formula for circumference of a circle is sideÂ³.
+What is regression?,The concept of regression is a basic idea in artificial intelligence that helps computers to learn from examples.
+What is neural networks?,The concept of neural networks is a basic idea in artificial intelligence that helps computers to identify patterns.
+What is natural language processing?,The concept of natural language processing is a basic idea in artificial intelligence that helps computers to learn from examples.
+What is a adverb?,A adverb is used in English to modify a verb.
+Give an example of a preposition.,An example of a preposition is 'under the table'.
+What is the use of data preprocessing in machine learning?,data preprocessing helps a machine learn from examples using data.
+What is a verb?,A verb is used in English to name a person or thing.
+Give an example of a preposition.,An example of a preposition is 'run'.
+Explain supervised learning.,supervised learning is a technique used in AI to help machines learn from examples.
+Give an example of a verb.,An example of a verb is 'book'.
+Why is photosynthesis important?,photosynthesis is important because it helps with maintain balance.
+Give an example of a adjective.,An example of a adjective is 'run'.
+What is the use of clustering in machine learning?,clustering helps a machine understand language using data.
+What is supervised learning?,The concept of supervised learning is a basic idea in artificial intelligence that helps computers to predict outcomes.
+Give an example of a preposition.,An example of a preposition is 'beautiful'.
+What is the use of supervised learning in machine learning?,supervised learning helps a machine learn from examples using data.
+Explain neural networks.,neural networks is a technique used in AI to help machines learn from examples.
+Who was Isaac Newton?,Isaac Newton was known for developing the theory of relativity.
+Explain unsupervised learning.,unsupervised learning is a technique used in AI to help machines understand language.
+What is feature engineering?,feature engineering is a concept in science that helps us understand how things work.
+What is natural language processing?,The concept of natural language processing is a basic idea in artificial intelligence that helps computers to identify patterns.
+What is supervised learning?,The concept of supervised learning is a basic idea in artificial intelligence that helps computers to recognize images.
+Who was Isaac Newton?,Isaac Newton was known for leading a non-violent movement.
+What is supervised learning?,supervised learning is a concept in science that helps us understand how things work.
+What is the use of data preprocessing in machine learning?,data preprocessing helps a machine identify patterns using data.
+What is the use of unsupervised learning in machine learning?,unsupervised learning helps a machine understand language using data.
+What is a preposition?,A preposition is used in English to name a person or thing.
+What is a preposition?,A preposition is used in English to modify a verb.
+Who was Albert Einstein?,Albert Einstein was known for developing the theory of relativity.
+What is clustering?,The concept of clustering is a basic idea in artificial intelligence that helps computers to recognize images.
+Explain unsupervised learning.,unsupervised learning is a technique used in AI to help machines identify patterns.
+Explain data preprocessing.,data preprocessing is a technique used in AI to help machines identify patterns.
+What is the use of regression in machine learning?,regression helps a machine learn from examples using data.
+What is feature engineering?,The concept of feature engineering is a basic idea in artificial intelligence that helps computers to predict outcomes.
+Explain clustering.,clustering is a technique used in AI to help machines identify patterns.
+Give an example of a preposition.,An example of a preposition is 'book'.
+What is unsupervised learning?,The concept of unsupervised learning is a basic idea in artificial intelligence that helps computers to understand language.
+Who was Albert Einstein?,Albert Einstein was known for discovering gravity.
+What is a adjective?,A adjective is used in English to name a person or thing.
+What is the use of data preprocessing in machine learning?,data preprocessing helps a machine predict outcomes using data.
+What is unsupervised learning?,The concept of unsupervised learning is a basic idea in artificial intelligence that helps computers to predict outcomes.
+Give an example of a verb.,An example of a verb is 'beautiful'.
+Who was Mother Teresa?,Mother Teresa was known for developing the theory of relativity.
+What is the use of regression in machine learning?,regression helps a machine recognize images using data.
+Explain clustering.,clustering is a technique used in AI to help machines understand language.
+What is the use of neural networks in machine learning?,neural networks helps a machine understand language using data.
+Explain supervised learning.,supervised learning is a technique used in AI to help machines predict outcomes.
+Explain neural networks.,neural networks is a technique used in AI to help machines understand language.
+What is the use of neural networks in machine learning?,neural networks helps a machine recognize images using data.
+What is the use of supervised learning in machine learning?,supervised learning helps a machine identify patterns using data.
+Give an example of a noun.,An example of a noun is 'quickly'.
+What is the use of unsupervised learning in machine learning?,unsupervised learning helps a machine recognize images using data.
+What is the use of natural language processing in machine learning?,natural language processing helps a machine recognize images using data.
+What is a preposition?,A preposition is used in English to show the relationship between words.
+Explain feature engineering.,feature engineering is a technique used in AI to help machines understand language.
+Explain neural networks.,neural networks is a technique used in AI to help machines recognize images.
+Explain regression.,regression is a technique used in AI to help machines predict outcomes.
+Explain feature engineering.,feature engineering is a technique used in AI to help machines recognize images.
+What is neural networks?,The concept of neural networks is a basic idea in artificial intelligence that helps computers to understand language.
+Explain natural language processing.,natural language processing is a technique used in AI to help machines recognize images.
+Give an example of a preposition.,An example of a preposition is 'quickly'.
+What is the formula for area of triangle?,The formula for area of triangle is 2 Ã— Ï€ Ã— radius.
+Give an example of a noun.,An example of a noun is 'beautiful'.
+What is feature engineering?,The concept of feature engineering is a basic idea in artificial intelligence that helps computers to understand language.
+Explain unsupervised learning.,unsupervised learning is a technique used in AI to help machines learn from examples.
+What is regression?,The concept of regression is a basic idea in artificial intelligence that helps computers to predict outcomes.
+What is data preprocessing?,data preprocessing is a concept in science that helps us understand how things work.
+What is a preposition?,A preposition is used in English to show an action.
+What is the use of neural networks in machine learning?,neural networks helps a machine predict outcomes using data.
+What is the use of regression in machine learning?,regression helps a machine understand language using data.
+What is supervised learning?,The concept of supervised learning is a basic idea in artificial intelligence that helps computers to understand language.
+Give an example of a adjective.,An example of a adjective is 'beautiful'.
+Explain data preprocessing.,data preprocessing is a technique used in AI to help machines predict outcomes.
+What is the use of unsupervised learning in machine learning?,unsupervised learning helps a machine predict outcomes using data.
+What is the use of clustering in machine learning?,clustering helps a machine learn from examples using data.
+What is regression?,The concept of regression is a basic idea in artificial intelligence that helps computers to recognize images.
+What is feature engineering?,The concept of feature engineering is a basic idea in artificial intelligence that helps computers to identify patterns.
+What is the use of feature engineering in machine learning?,feature engineering helps a machine identify patterns using data.
+Give an example of a verb.,An example of a verb is 'run'.
+Explain feature engineering.,feature engineering is a technique used in AI to help machines predict outcomes.
+What is unsupervised learning?,The concept of unsupervised learning is a basic idea in artificial intelligence that helps computers to identify patterns.
+What is regression?,The concept of regression is a basic idea in artificial intelligence that helps computers to understand language.
+What is the use of regression in machine learning?,regression helps a machine predict outcomes using data.
+Explain regression.,regression is a technique used in AI to help machines understand language.
+What is the use of unsupervised learning in machine learning?,unsupervised learning helps a machine learn from examples using data.
+What is natural language processing?,The concept of natural language processing is a basic idea in artificial intelligence that helps computers to recognize images.
+What is the use of supervised learning in machine learning?,supervised learning helps a machine predict outcomes using data.
+What is feature engineering?,The concept of feature engineering is a basic idea in artificial intelligence that helps computers to recognize images.
+What is data preprocessing?,The concept of data preprocessing is a basic idea in artificial intelligence that helps computers to learn from examples.
+Explain neural networks.,neural networks is a technique used in AI to help machines identify patterns.
+What is neural networks?,The concept of neural networks is a basic idea in artificial intelligence that helps computers to recognize images.
+What is clustering?,The concept of clustering is a basic idea in artificial intelligence that helps computers to learn from examples.
+What is data preprocessing?,The concept of data preprocessing is a basic idea in artificial intelligence that helps computers to recognize images.
+What is the use of data preprocessing in machine learning?,data preprocessing helps a machine understand language using data.
+Explain supervised learning.,supervised learning is a technique used in AI to help machines recognize images.
+Explain natural language processing.,natural language processing is a technique used in AI to help machines learn from examples.
+Explain clustering.,clustering is a technique used in AI to help machines predict outcomes.
+What is the use of clustering in machine learning?,clustering helps a machine identify patterns using data.
+Explain clustering.,clustering is a technique used in AI to help machines learn from examples.
+What is the use of natural language processing in machine learning?,natural language processing helps a machine identify patterns using data.
+Explain natural language processing.,natural language processing is a technique used in AI to help machines predict outcomes.
+Explain data preprocessing.,data preprocessing is a technique used in AI to help machines recognize images.
+What is Artificial Intelligence?,Artificial Intelligence is when computers are made to think and learn like humans.
+What is Machine Learning?,Machine Learning is a way for computers to learn from data and improve over time without being directly programmed.
+What is data science?,"Data science is the study of data to find useful information using computers, math, and statistics."
+What is a dataset?,"A dataset is a collection of data, often used by computers to learn or make decisions."
+Can AI think like a human?,"AI can copy some human thinking, but it doesnâ€™t truly feel or understand like humans do."
+Hello!,Hi there! How can I help you today?
+How are you?,"I'm just a computer, but I'm happy to help you!"
+Good morning,Good morning! Hope you have a great day.
+Tell me a joke,Why did the computer catch a cold? Because it left its Windows open!
+What's your name?,I'm your helpful AI chatbot!
+What is 7 times 8?,7 times 8 is 56.
+What is the formula for the area of a triangle?,The area of a triangle is (base Ã— height) Ã· 2.
+What is a prime number?,A prime number is a number that has only two factors: 1 and itself.
+What is photosynthesis?,"Photosynthesis is the process by which plants make their food using sunlight, carbon dioxide, and water."
+Why do we see lightning before thunder?,Because light travels faster than sound.
+What is the boiling point of water?,The boiling point of water is 100Â°C or 212Â°F.
+What is a verb?,A verb is a word that shows action or a state of being.
+What is a synonym?,A synonym is a word that means the same or nearly the same as another word.
+What is a computer?,A computer is an electronic device that processes data using instructions stored in its memory.
+What is an operating system?,"An operating system is software that manages computer hardware and software resources (like Windows, macOS, or Linux)."
+What is AI?,Artificial Intelligence (AI) is when machines can perform tasks that typically require human intelligence.
+What is machine learning?,Machine learning is a type of AI where computers learn from data without being explicitly programmed.
+What is coding?,Coding is writing instructions for computers using programming languages like Python or JavaScript.
+What is a variable in programming?,A variable is a named container that stores data in a computer program.
+What is a loop in coding?,A loop repeats a set of instructions until a certain condition is met.
+What is RAM?,RAM (Random Access Memory) is temporary memory that computers use to store data while programs are running.
+What is a CPU?,The CPU (Central Processing Unit) is the brain of the computer that executes instructions.
+What is an algorithm?,An algorithm is a step-by-step procedure for solving a problem or completing a task.
+What is the internet?,The internet is a global network connecting millions of computers to share information.
+What is a browser?,"A browser is software used to access the internet (like Chrome, Firefox, or Safari)."
+What is a firewall?,A firewall is a security system that protects computers from unauthorized network access.
+What is robotics?,"Robotics is the field of designing, building, and programming robots."
+What is a neural network?,"A neural network is a computer system modeled after the human brain, used in AI."
+What is data science?,Data science is the study of extracting knowledge and insights from data.
+What is a pixel?,A pixel is the smallest unit of a digital image or display.
+What is binary code?,Binary code is how computers represent data using only 0s and 1s.
+What is cloud computing?,Cloud computing means storing and accessing data/programs over the internet instead of a computer's hard drive.
+What is a database?,A database is an organized collection of structured information stored electronically.
+What is cybersecurity?,Cybersecurity is the practice of protecting computers and networks from digital attacks.
+What is a motherboard?,The motherboard is the main circuit board that connects all computer components.
+What is a GPU?,A GPU (Graphics Processing Unit) handles images and video for display.
+What is open-source software?,"Open-source software has code that anyone can inspect, modify, and enhance."
+What is an input device?,"Input devices send data to computers (like keyboards, mice, or touchscreens)."
+What is an output device?,"Output devices receive data from computers (like monitors, printers, or speakers)."
+What is a smartphone?,A smartphone is a mobile phone with advanced computing capabilities and internet access.
+What is a file extension?,A file extension indicates a file's format (like .docx for documents or .jpg for images).
+What is Wi-Fi?,Wi-Fi is wireless technology that allows devices to connect to the internet.
+What is Bluetooth?,Bluetooth is wireless technology for short-range device connections.
+What is a chatbot?,A chatbot is a computer program that simulates human conversation.
+What is virtual reality?,Virtual reality (VR) creates simulated environments using computer technology.
+What is a hard drive?,A hard drive is permanent storage for software and files.
+What is a programming language?,A programming language is a vocabulary for writing computer instructions.
+What is Python?,"Python is a popular programming language used in AI, web development, and data science."
+What is HTML?,HTML is the standard language for creating web pages.
+What is an app?,An app (application) is a software program for specific tasks.
+What is a virus?,A computer virus is malicious software that spreads between devices.
+What is phishing?,Phishing is when attackers trick people into revealing sensitive information.
+What is a password manager?,A password manager securely stores and manages login credentials.
+What is 3D printing?,3D printing creates physical objects from digital models by adding material layer by layer.
+What is a drone?,A drone is an unmanned aircraft controlled remotely or autonomously.
+What is a search engine?,A search engine helps find information online (like Google or Bing).
+What is a URL?,A URL (Uniform Resource Locator) is a web address.
+What is an email?,Email (electronic mail) sends digital messages over the internet.
+What is social media?,Social media are online platforms for sharing information and networking.
+What is a spreadsheet?,A spreadsheet organizes data in rows and columns (like Excel or Sheets).
+What is a word processor?,A word processor creates text documents (like Microsoft Word).
+What is a presentation software?,Presentation software creates slideshows (like PowerPoint).
+What is a PDF?,PDF (Portable Document Format) preserves document formatting across devices.
+What is a chatbot used for?,"Chatbots help with customer service, information lookup, and task automation."
+What is coding used for?,"Coding creates websites, apps, games, and controls robots."
+What is AI used for?,"AI powers voice assistants, recommendations, image recognition, and self-driving cars."
+What is machine learning used for?,"Machine learning enables spam filtering, predictions, and pattern recognition."
+What is robotics used for?,"Robotics helps in manufacturing, surgery, space exploration, and household tasks."
+What is a variable used for?,"Variables store data like numbers, text, or true/false values for programs."
+What is a loop used for?,Loops repeat actions like counting or processing lists of items.
+What is RAM used for?,RAM allows quick access to data for running programs.
+What is a CPU used for?,The CPU performs calculations and executes program instructions.
+What is an algorithm used for?,Algorithms solve problems like sorting data or finding shortest routes.
+What is the internet used for?,"The internet enables communication, research, shopping, and entertainment."
+What is a browser used for?,Browsers display websites and web applications.
+What is a firewall used for?,Firewalls block hackers and malware from accessing networks.
+What is a neural network used for?,"Neural networks recognize speech, images, and patterns in data."
+What is data science used for?,"Data science analyzes trends, predicts outcomes, and supports decision-making."
+What is cloud computing used for?,"Cloud computing provides storage, software, and processing power on demand."
+What is cybersecurity used for?,"Cybersecurity protects personal information, finances, and systems."
+What is a GPU used for?,"GPUs render graphics for games, video editing, and AI computations."
+What is open-source software used for?,"Open-source software powers Linux, Android, and many web servers."
+What is binary used for?,Binary represents all computer data and instructions.
+How does a computer work?,Computers follow instructions (programs) to process input into output.
+How does the internet work?,Data travels through networks of routers and servers using protocols like TCP/IP.
+How does Wi-Fi work?,Wi-Fi converts data into radio waves for wireless transmission.
+How does Bluetooth work?,Bluetooth uses short-range radio waves to connect devices.
+How does a chatbot work?,Chatbots analyze user inputs and generate responses using rules or AI.
+How does VR work?,VR headsets display 3D environments and track user movements.
+How does 3D printing work?,3D printers build objects by depositing material layer by layer from digital models.
+How does a search engine work?,"Search engines crawl websites, index content, and rank results for queries."
+How does email work?,Emails travel between servers using protocols like SMTP before reaching recipients.
+How does social media work?,Social media platforms connect users who share content through profiles and feeds.
+How does a spreadsheet work?,Spreadsheets use cells (like A1) to store values and formulas for calculations.
+How does AI learn?,AI learns from examples and data patterns using algorithms.
+How does machine learning improve?,Machine learning improves through training with more data and feedback.
+How does coding control robots?,Programmers write code that directs robot movements and sensors.
+How do loops save time?,Loops automate repetitive tasks with fewer lines of code.
+How does RAM affect performance?,More RAM allows faster multitasking and smoother program operation.
+How does a CPU speed matter?,Faster CPUs process instructions more quickly.
+How do algorithms help daily life?,"Algorithms power GPS navigation, recommendations, and search results."
+How do firewalls protect us?,Firewalls monitor traffic and block suspicious connections.
+How do neural networks recognize images?,They analyze pixel patterns through layers of artificial neurons.
+How does cloud computing help businesses?,It provides flexible resources without maintaining physical hardware.
+How does cybersecurity prevent hacking?,"It uses encryption, authentication, and monitoring."
+Why is computer science important?,"It drives innovation in healthcare, education, transportation, and communication."
+Why learn to code?,Coding teaches problem-solving and creates opportunities in technology fields.
+Why is AI growing?,AI automates complex tasks and extracts insights from big data.
+Why use machine learning?,It adapts to new data without explicit reprogramming.
+Why study robotics?,Robotics combines engineering and programming to build intelligent machines.
+Why understand variables?,Variables are fundamental building blocks in programming.
+Why use loops?,Loops make code efficient and manageable.
+Why need more RAM?,Modern applications and operating systems require substantial memory.
+Why CPU upgrades matter?,Newer CPUs handle demanding tasks like video editing or gaming better.
+Why study algorithms?,Efficient algorithms solve problems faster with fewer resources.
+Why use the internet responsibly?,"To protect privacy, avoid scams, and respect digital property."
+Why update software?,Updates fix security flaws and add improvements.
+Why use strong passwords?,Strong passwords prevent unauthorized account access.
+Why backup data?,Backups protect against data loss from hardware failure or malware.
+Why open-source matters?,"It promotes collaboration, transparency, and accessible technology."
+Why binary is fundamental?,All digital systems ultimately process binary signals.
+Good morning!,Good morning! Ready to learn something new?
+How are you?,"I'm a chatbot, but I'm functioning well! How about you?"
+Thank you!,You're welcome!
+Bye!,Goodbye! Come back if you have more questions!
+What does URL stand for?,URL stands for Uniform Resource Locator.
+What does CPU stand for?,CPU stands for Central Processing Unit.
+What does RAM stand for?,RAM stands for Random Access Memory.
+What does AI stand for?,AI stands for Artificial Intelligence.
+What does ML stand for?,ML stands for Machine Learning.
+What does PDF stand for?,PDF stands for Portable Document Format.
+What does HTML stand for?,HTML stands for HyperText Markup Language.
+What does VR stand for?,VR stands for Virtual Reality.
+What does Wi-Fi stand for?,Wi-Fi stands for Wireless Fidelity.
+What does GPU stand for?,GPU stands for Graphics Processing Unit.
+What does SMTP stand for?,SMTP stands for Simple Mail Transfer Protocol.
+What does OS stand for?,OS stands for Operating System.
+What does LAN stand for?,LAN stands for Local Area Network.
+What does VPN stand for?,VPN stands for Virtual Private Network.
+What does GUI stand for?,GUI stands for Graphical User Interface.
+What does SSD stand for?,SSD stands for Solid State Drive.
+What does USB stand for?,USB stands for Universal Serial Bus.
+What does HTTP stand for?,HTTP stands for HyperText Transfer Protocol.
+What does HTTPS stand for?,HTTPS stands for HyperText Transfer Protocol Secure.
+Who invented the computer?,Charles Babbage designed the first mechanical computer in the 1800s.
+Who created Python?,Guido van Rossum created Python in 1991.
+Who founded Microsoft?,Bill Gates and Paul Allen founded Microsoft.
+Who founded Apple?,Steve Jobs
+Who developed Linux?,Linus Torvalds created the Linux kernel.
+Who invented the World Wide Web?,Tim Berners-Lee invented the World Wide Web.
+Who coined Artificial Intelligence?,John McCarthy coined the term in 1956.
+Who created Java?,James Gosling and his team at Sun Microsystems created Java.
+Who invented email?,Ray Tomlinson developed the first email system in 1971.
+Who created the first website?,Tim Berners-Lee created the first website in 1991.
+When was the first computer invented?,The first electronic computer (ENIAC) was completed in 1945.
+When was Python released?,Python 0.9.0 was released in 1991.
+When was AI first researched?,Serious AI research began in the 1950s.
+When did the internet become public?,The World Wide Web became publicly available in 1991.
+When was Microsoft founded?,Microsoft was founded on April 4
+When was Apple founded?,Apple was founded on April 1
+When was Google founded?,Google was founded on September 4
+When was Facebook founded?,Facebook was founded in February 2004.
+When was the first iPhone released?,The first iPhone was released on June 29
+When was WiFi invented?,WiFi was first released for consumers in 1997.
+Where is Silicon Valley?,Silicon Valley is in California's San Francisco Bay Area.
+Where are most computer chips made?,Most computer chips are manufactured in Taiwan
+Where is CERN located?,CERN is located near Geneva
+Where was the World Wide Web invented?,The World Wide Web was invented at CERN in Switzerland.
+Where is the largest supercomputer?,The largest supercomputers are in the US
+How to stay safe online?,"Use strong passwords, enable 2FA, avoid suspicious links, and update software."
+How to create a strong password?,"Use 12+ characters with letters, numbers, and symbols; avoid personal info."
+How to learn coding?,"Start with beginner tutorials, practice daily, and build simple projects."
+How do touchscreens work?,Touchscreens detect finger contact using electrical sensors or light beams.
+How do GPS systems work?,GPS uses satellites to calculate location based on signal timing.
+How do barcodes work?,Barcodes store data as patterns scanned by light sensors.
+How do QR codes work?,QR codes store data in 2D patterns readable by smartphone cameras.
+How do self-driving cars see?,"They use cameras, radar, lidar, and sensors to detect surroundings."
+How do voice assistants work?,"They convert speech to text, analyze meaning, and generate responses."
+What's the difference between hardware and software?,Hardware is physical components; software is programs and data.
+What's the difference between RAM and storage?,RAM is temporary memory for active tasks; storage holds data long-term.
+What's the difference between AI and ML?,AI is broad intelligence; ML is a subset where systems learn from data.
+What's the difference between CPU and GPU?,CPU handles general tasks; GPU specializes in graphics and parallel processing.
+What's the difference between internet and Wi-Fi?,Internet is global network; Wi-Fi is wireless access to that network.
+What's the difference between VR and AR?,VR creates immersive environments; AR overlays digital info on the real world.
+What's the difference between website and app?,Websites run in browsers; apps are installed programs on devices.
+What's the difference between coding and programming?,Coding writes instructions; programming includes designing and testing solutions.
+What's the difference between data and information?,Data is raw facts; information is processed data with context.
+What's the difference between hacker and cracker?,Hackers solve problems; crackers break into systems maliciously.
+What is a conditional statement?,A conditional performs actions based on true/false conditions (like if-then rules).
+What is a function in programming?,A function is a reusable block of code that performs a specific task.
+What is object-oriented programming?,OOP organizes code into objects with properties and methods.
+What is debugging?,Debugging is finding and fixing errors in code.
+What is syntax?,Syntax is the set of rules for writing correct code in a language.
+What is a compiler?,A compiler translates entire programs into machine code before execution.
+What is an interpreter?,An interpreter executes code line-by-line without pre-compilation.
+What is a bug?,A bug is an error or flaw in software causing unexpected behavior.
+What is version control?,Version control tracks changes to code over time (like Git).
+What is open data?,Open data is freely available information for anyone to use.
+What is big data?,Big data refers to extremely large datasets analyzed computationally.
+What is a chatbot's training data?,Training data teaches AI models to recognize patterns and generate responses.
+What is digital citizenship?,"Digital citizenship is using technology responsibly, ethically, and safely."
+What is cyberbullying?,"Cyberbullying is using digital tools to harass, threaten, or embarrass others."
+What is phishing?,Phishing tricks users into sharing sensitive data via fake emails/sites.
+What is encryption?,Encryption scrambles data so only authorized parties can read it.
+What is two-factor authentication?,2FA requires two verification methods (like password + text code) for login.
+What is a cookie?,A cookie is a small file websites store on devices to remember information.
+What is a search algorithm?,Search algorithms find information in databases (like Google's PageRank).
+What is a recommendation system?,Recommendation systems suggest content based on user preferences.
+What is computer vision?,Computer vision enables machines to interpret visual data.
+What is natural language processing?,NLP helps computers understand and generate human language.
+What is a Turing test?,The Turing test assesses if a machine can exhibit human-like intelligence.
+What is deep learning?,Deep learning uses multi-layered neural networks for complex pattern recognition.
+What is a smart home?,A smart home uses internet-connected devices for automated control.
+What is IoT?,IoT (Internet of Things) connects everyday objects to the internet.
+What is a drone?,A drone is an unmanned aerial vehicle controlled remotely.
+What is a 3D model?,A 3D model is a digital representation of an object in three dimensions.
+What is a filter bubble?,Filter bubbles isolate users with personalized content limiting diverse views.
+What is fake news?,Fake news is false information presented as legitimate news.
+What is digital footprint?,A digital footprint is the trail of data left by online activities.
+What is screen time?,Screen time is time spent using digital devices.
+What is blue light?,Blue light is emitted by screens and can affect sleep patterns.
+What is ergonomics?,Ergonomics designs workspaces to reduce strain and injury.
+What is a hotspot?,A hotspot shares internet access via Wi-Fi from a mobile device.
+What is streaming?,Streaming delivers audio/video content in real-time over the internet.
+What is a meme?,"A meme is an idea or style spread rapidly online, often humorous."
+What is a podcast?,A podcast is a digital audio series available for streaming/download.
+What is a blog?,A blog is a website with regularly updated informal articles.
+What is a wiki?,A wiki is a collaboratively edited website (like Wikipedia).
+What is a forum?,A forum is an online discussion site where people hold conversations.
+What is a hashtag?,A hashtag (#) categorizes content on social media platforms.
+What is geotagging?,Geotagging adds location data to photos or posts.
+What is autocorrect?,Autocorrect fixes spelling errors automatically while typing.
+What is voice recognition?,Voice recognition converts spoken words into text or commands.
+What is gesture control?,Gesture control allows device operation through body movements.
+What is a QR scanner?,A QR scanner reads matrix barcodes with a camera to access information.
+What is a selfie?,A selfie is a self-portrait photo taken with a smartphone.
+What is a 3D printer?,A 3D printer creates physical objects from digital models by adding material layer by layer.
+What is a smartwatch?,"A smartwatch is a wearable computer with touchscreen, apps, and health tracking."
+What is a fitness tracker?,"A fitness tracker monitors physical activity, heart rate, and sleep patterns."
+What is a tablet?,A tablet is a portable touchscreen computer larger than a phone.
+What is a laptop?,A laptop is a portable computer with keyboard and screen.
+What is a desktop?,A desktop is a personal computer designed for regular use at one location.
+What is a server?,A server provides data or services to other computers over a network.
+What is a router?,A router directs internet traffic between devices and networks.
+What is a modem?,A modem connects devices to the internet via cable or phone lines.
+What is a charger?,A charger supplies electrical energy to recharge batteries.
+What is a cable?,A cable transmits data or power between devices.
+What is a port?,A port is a connection point for peripherals (like USB or HDMI).
+What is a sensor?,"A sensor detects physical inputs (light, motion, temperature) and converts them to data."
+What is a battery?,A battery stores chemical energy for conversion to electrical power.
+What is solar power?,Solar power converts sunlight into electricity using photovoltaic cells.
+What is renewable energy?,Renewable energy comes from natural sources like sunlight or wind.
+What is a circuit?,A circuit is a path for electricity to flow through components.
+What is a semiconductor?,A semiconductor (like silicon) controls electrical current in electronics.
+What is a transistor?,A transistor amplifies or switches electronic signals.
+What is a microchip?,A microchip is an integrated circuit with microscopic components.
+What is nanotechnology?,Nanotechnology manipulates matter at atomic/molecular scales.
+What is biotechnology?,Biotechnology uses living systems to develop products/technologies.
+What is a gigabyte?,A gigabyte (GB) is about 1 billion bytes of digital storage.
+What is a megabyte?,A megabyte (MB) is about 1 million bytes of digital storage.
+What is a kilobyte?,A kilobyte (KB) is about 1 thousand bytes of digital storage.
+What is a terabyte?,A terabyte (TB) is about 1 trillion bytes of digital storage.
+What is bandwidth?,Bandwidth measures data transfer capacity per second (like Mbps).
+What is latency?,Latency is delay in data transmission over a network.
+What is a pixel?,A pixel is the smallest controllable element of a digital image.
+What is resolution?,Resolution is the number of pixels in a display (like 1920x1080).
+What is a frame rate?,Frame rate measures how many images display per second in video.
+What is HD?,HD (High Definition) is video resolution of 1280x720 pixels or higher.
+What is 4K?,4K is ultra-high-definition video resolution (3840x2160 pixels).
+What is an LED?,An LED (Light Emitting Diode) produces light using semiconductors.
+What is an OLED?,OLED (Organic LED) uses organic compounds to emit light when electrified.
+What is a laser?,Laser light is amplified and focused into a narrow beam.
+What is Bluetooth pairing?,Pairing connects two Bluetooth devices for communication.
+What is a wireless mouse?,A wireless mouse connects to computers via Bluetooth or USB receiver.
+What is a mechanical keyboard?,A mechanical keyboard uses physical switches under each key.
+What is a webcam?,A webcam captures video for streaming or video calls.
+What is a microphone?,A microphone converts sound into electrical signals.
+What is a speaker?,A speaker converts electrical signals into sound waves.
+What is a headset?,A headset combines headphones and microphone for communication.
+What is noise cancellation?,Noise cancellation reduces unwanted ambient sounds.
+What is a stylus?,A stylus is a pen-like tool for touchscreen input.
+What is a game controller?,A game controller inputs commands for video games.
+What is a joystick?,A joystick controls movement in games or simulations.
+What is augmented reality?,Augmented reality (AR) overlays digital information onto the real world.
+What is mixed reality?,Mixed reality (MR) blends physical and digital worlds interactively.
+What is a hologram?,A hologram is a 3D image created with light projection.
+What is a simulation?,A simulation imitates real-world processes for training or analysis.
+What is a model?,A model represents a system or concept for study.
+What is a prototype?,A prototype is an early sample for testing ideas.
+What is beta testing?,Beta testing involves real users trying unfinished software to find bugs.
+What is user interface?,User interface (UI) is how users interact with software/hardware.
+What is user experience?,User experience (UX) focuses on overall satisfaction with products/services.
+What is accessibility?,Accessibility ensures technology usable by people with disabilities.
+What is dark mode?,Dark mode displays light text on dark backgrounds to reduce eye strain.
+What is a filter?,A filter modifies images or content based on set rules.
+What is a lens?,A lens focuses light in cameras or alters images in AR apps.
+What is a meme generator?,A meme generator creates humorous images with captions.
+What is a GIF?,A GIF is a looped animated image format.
+What is a JPEG?,JPEG is a compressed image format for photos.
+What is a PNG?,PNG is an image format supporting transparency and lossless compression.
+What is a watermark?,A watermark is a visible overlay identifying content ownership.
+What is a virus scan?,A virus scan checks files for malicious software.
+What is malware?,Malware is malicious software designed to harm systems or steal data.
+What is ransomware?,Ransomware encrypts files and demands payment for decryption.
+What is a backup?,A backup is a copy of data for restoration if original is lost.
+What is the cloud?,The cloud refers to internet-based storage and computing services.
+What is a download?,Downloading transfers data from the internet to a device.
+What is an upload?,Uploading transfers data from a device to the internet.
+What is buffering?,Buffering preloads data to prevent interruptions during streaming.
+What is lag?,Lag is delay between action and response in digital systems.
+What is a cache?,A cache stores frequently accessed data for faster retrieval.
+What is a firewall?,A firewall monitors and controls network traffic for security.
+What is a password?,A password is a secret string for authentication.
+What is biometrics?,Biometrics uses physical traits (fingerprint/face) for identification.
+What is facial recognition?,Facial recognition identifies people using facial features.
+What is a fingerprint scanner?,A fingerprint scanner authenticates users via unique fingerprints.
+What is a captcha?,CAPTCHA tests distinguish humans from bots using challenges.
+What is a spam filter?,A spam filter blocks unsolicited emails.
+What is adware?,Adware displays unwanted advertisements.
+What is spyware?,Spyware secretly monitors user activities.
+What is a Trojan?,A Trojan disguises malware as legitimate software.
+What is a worm?,A worm self-replicates across networks without user interaction.
+What is a patch?,A patch updates software to fix issues.
+What is an update?,An update improves software functionality or security.
+What is an upgrade?,An upgrade installs a newer version of software/hardware.
+What is compatibility?,Compatibility ensures systems work together correctly.
+What is a driver?,A driver enables communication between hardware and OS.
+What is a plugin?,A plugin adds features to existing software.
+What is an extension?,An extension modifies browser functionality.
+What is a widget?,A widget displays information/apps on device screens.
+What is an icon?,An icon represents apps/files visually.
+What is a shortcut?,A shortcut links to files/programs for quick access.
+What is a folder?,A folder organizes files/directories.
+What is a directory?,A directory structures file storage hierarchically.
+What is a path?,A path specifies file/folder location in a system.
+What is metadata?,Metadata describes characteristics of data.
+What is a template?,A template provides pre-designed formats for documents.
+What is a font?,A font defines text style and appearance.
+What is a screenshot?,A screenshot captures current screen display as an image.
+What is a printout?,A printout produces physical copies of digital documents.
+What is a scanner?,A scanner converts physical documents to digital images.
+What is OCR?,OCR (Optical Character Recognition) extracts text from images.
+What is speech-to-text?,Speech-to-text converts spoken words into written text.
+What is text-to-speech?,Text-to-speech converts written text into spoken words.
+What is a translator?,A translator converts text between languages.
+What is a dictionary?,A dictionary defines words and their meanings.
+What is a thesaurus?,A thesaurus lists synonyms and antonyms.
+What is grammar check?,Grammar check identifies and corrects writing errors.
+What is spell check?,Spell check identifies and corrects spelling errors.
+What is predictive text?,Predictive text suggests words while typing.
+What is voice typing?,Voice typing converts speech to text in real-time.
+What is a cursor?,A cursor indicates position on screen for input.
+What is a pointer?,A pointer is the mouse-controlled cursor on screen.
+What is dragging?,Dragging moves objects by clicking/holding/releasing.
+What is dropping?,Dropping releases objects after dragging.
+What is swiping?,Swiping moves fingers across touchscreens to navigate.
+What is pinching?,Pinching zooms in/out by spreading or closing fingers on touchscreens.
+What is tapping?,Tapping briefly touches screen to select items.
+What is holding?,Holding touches screen continuously to access options.
+What is scrolling?,Scrolling moves content vertically/horizontally.
+What is zooming?,Zooming enlarges/reduces content view.
+What is rotating?,Rotating turns content orientation using gestures.
+What is shaking?,Shaking devices triggers undo actions in some apps.
+What is tilting?,Tilting devices controls motion-based games/apps.
+What is vibration?,Vibration provides haptic feedback for notifications.
+What is haptics?,Haptics simulate touch sensations through vibrations.
+What is feedback?,Feedback confirms actions through visual/audio/tactile responses.
+What is a notification?,A notification alerts users about events/messages.
+What is an alert?,An alert warns about important situations.
+What is a reminder?,A reminder prompts scheduled tasks/events.
+What is a calendar?,A calendar organizes dates and events.
+What is a clock?,A clock displays current time.
+What is a timer?,A timer counts down from set durations.
+What is a stopwatch?,A stopwatch measures elapsed time.
+What is a calculator?,A calculator performs mathematical operations.
+What is a converter?,A converter changes units (currency/length/temperature).
+What is a compass?,A compass shows directional orientation.
+What is a map?,A map represents geographical areas.
+What is GPS?,GPS (Global Positioning System) determines location via satellites.
+What is navigation?,Navigation provides route guidance using maps/GPS.
+What is geolocation?,Geolocation identifies device position.
+What is tracking?,Tracking monitors movement over time.
+What is a satellite?,"A satellite orbits Earth, providing communication/data."
+What is astronomy?,Astronomy studies celestial objects and phenomena.
+What is a telescope?,A telescope magnifies distant objects in space.
+What is a microscope?,A microscope magnifies tiny objects for observation.
+What is a sensor?,A sensor detects physical properties (light/temperature).
+What is a detector?,A detector identifies specific substances/conditions.
+What is a meter?,A meter measures quantities like speed or volume.
+What is a gauge?,A gauge displays measurement readings.
+What is a dial?,A dial adjusts settings via rotation.
+What is a knob?,A knob controls devices by turning.
+What is a button?,A button triggers actions when pressed.
+What is a switch?,A switch toggles between on/off states.
+What is a lever?,A lever controls mechanisms through pivoting.
+What is a pedal?,A pedal operates devices with foot pressure.
+What is a touchpad?,A touchpad senses finger movements for cursor control.
+What is a trackball?,A trackball moves cursor by rotating a stationary ball.
+What is a light pen?,A light pen selects screen items via light detection.
+What is a graphics tablet?,A graphics tablet enables drawing with pressure-sensitive pens.
+What is a MIDI controller?,A MIDI controller inputs musical data to computers.
+What is a synthesizer?,A synthesizer generates electronic sounds.
+What is a sampler?,A sampler records/plays audio clips.
+What is a sequencer?,A sequencer arranges musical notes/rhythms.
+What is a drum machine?,A drum machine creates percussion patterns.
+What is a DAW?,A DAW (Digital Audio Workstation) records/edits music.
+What is a vlog?,A vlog is a video blog sharing experiences/opinions.
+What is broadcasting?,Broadcasting transmits content to wide audiences via TV/radio/internet.
+What is a livestream?,A livestream broadcasts events in real-time online.
+What is on-demand?,On-demand provides content access anytime.
+What is a subscription?,A subscription pays regularly for service/content access.
+What is a membership?,A membership grants exclusive benefits to subscribers.
+What is a free trial?,A free trial offers temporary access without payment.
+What is a discount?,A discount reduces prices for promotions.
+What is a coupon?,A coupon provides discounts when redeemed.
+What is a barcode?,A barcode stores data as scannable lines/spaces.
+What is a QR code?,A QR code stores data in 2D patterns readable by smartphone cameras.
+What is NFC?,NFC (Near Field Communication) enables contactless data exchange.
+What is RFID?,RFID (Radio-Frequency ID) identifies objects wirelessly via tags.
+What is a chip?,A chip is an integrated circuit performing functions.
+What is a card?,A card holds data/payment info for transactions.
+What is a terminal?,A terminal processes electronic payments.
+What is a POS?,POS (Point of Sale) is where transactions occur.
+What is e-commerce?,E-commerce buys/sells goods/services online.
+What is online shopping?,Online shopping purchases items via websites/apps.
+What is digital payment?,Digital payment uses electronic methods instead of cash.
+What is cryptocurrency?,Cryptocurrency is digital money secured by cryptography.
+What is Bitcoin?,Bitcoin is the first decentralized cryptocurrency.
+What is blockchain?,Blockchain is a distributed ledger recording transactions securely.
+What is mining?,Mining verifies transactions and creates new cryptocurrency units.
+What is a wallet?,A wallet stores digital currency keys.
+What is an exchange?,An exchange trades cryptocurrencies for other assets.
+What is a token?,A token represents assets/utility on blockchains.
+What is a smart contract?,A smart contract automatically executes agreements when conditions are met.
+What is DAO?,DAO (Decentralized Autonomous Organization) operates via member voting on blockchain.
+What is Web3?,Web3 envisions a decentralized internet using blockchain.
+What is metaverse?,Metaverse describes shared virtual worlds accessed via internet.
+What is VR chat?,VR chat allows social interaction in virtual spaces.
+What is an avatar?,An avatar represents users in virtual environments.
+What is a sim?,A sim (Subscriber Identity Module) stores cellular network info.
+What is roaming?,Roaming extends service coverage outside home networks.
+What is coverage?,Coverage indicates network availability areas.
+What is signal strength?,Signal strength measures connection quality to networks.
+What is a dead zone?,A dead zone has no network coverage.
+What is airplane mode?,Airplane mode disables wireless functions during flights.
+What is pairing?,Pairing connects two Bluetooth devices for communication.
+What is tethering?,Tethering shares a device's internet with others via Wi-Fi/bluetooth/USB.
+What is data usage?,Data usage measures consumed internet bandwidth.
+What is a data cap?,A data cap limits monthly internet usage.
+What is throttling?,Throttling reduces internet speed after reaching data limits.
+What is unlimited data?,Unlimited data has no monthly usage restrictions.
+What is a contract?,A contract binds users to service terms for set periods.
+What is prepaid?,Prepaid pays for services in advance without contracts.
+What is a top-up?,A top-up adds credit to prepaid accounts.
+What is a recharge?,A recharge renews prepaid service access.
+What is a bill?,A bill invoices for services rendered.
+What is a statement?,A statement summarizes account activity/charges.
+What is autopay?,Autopay automatically deducts payments on due dates.
+What is overdraft?,Overdraft allows transactions exceeding account balance.
+Hello , Hello! How can I help you today?
+Hi , Hi there! What can I do for you?
+Good morning , Good morning! How can I help you?
+Good afternoon , Good afternoon! Hope you're having a great day!
+Good evening , Good evening! How can I assist you?
+How are you? ," I'm doing well, thank you for asking! How are you?"
+What's your name? , I'm your AI assistant. What would you like to know?
+Nice to meet you , Nice to meet you too! How can I help you today?
+Thank you , You're welcome! Is there anything else I can help you with?
+Thanks , You're welcome! Happy to help!
+Goodbye , Goodbye! Have a great day!
+Bye , Bye! Take care!
+See you later , See you later! Feel free to come back anytime!
+Help , I'm here to help! What do you need assistance with?
+What can you do? ," I can help with questions about machine learning, data science, AI, and general assistance!"
+What is machine learning? , Machine learning is a subset of AI that enables computers to learn and improve from experience without being explicitly programmed.
+Define supervised learning ," Supervised learning is a type of machine learning where the algorithm learns from labeled training data to make predictions on new, unseen data."
+What is unsupervised learning? , Unsupervised learning is a type of machine learning that finds hidden patterns in data without labeled examples.
+Explain reinforcement learning , Reinforcement learning is a type of machine learning where an agent learns to make decisions by receiving rewards or penalties for its actions.
+What is a training set? ," A training set is a dataset used to train a machine learning model, containing input-output pairs that the model learns from."
+What is a test set? , A test set is a dataset used to evaluate the performance of a trained machine learning model on unseen data.
+Define overfitting ," Overfitting occurs when a machine learning model learns the training data too well, including noise, resulting in poor performance on new data."
+What is underfitting? , Underfitting occurs when a machine learning model is too simple to capture the underlying patterns in the data.
+What is cross-validation? , Cross-validation is a technique to evaluate model performance by splitting data into multiple folds and training/testing on different combinations.
+Explain bias-variance tradeoff , The bias-variance tradeoff is the balance between a model's ability to minimize bias (underfitting) and variance (overfitting).
+What is a validation set? , A validation set is a portion of data used to tune hyperparameters and make model selection decisions during training.
+Define feature engineering ," Feature engineering is the process of selecting, modifying, or creating features from raw data to improve model performance."
+What is feature selection? , Feature selection is the process of choosing the most relevant features for building a machine learning model.
+Explain model evaluation , Model evaluation is the process of assessing how well a machine learning model performs on unseen data.
+What is a confusion matrix? , A confusion matrix is a table used to evaluate classification model performance by showing actual vs predicted classifications.
+Define precision , Precision is the ratio of true positive predictions to the total number of positive predictions made by the model.
+What is recall? , Recall is the ratio of true positive predictions to the total number of actual positive instances in the dataset.
+Explain F1 score ," F1 score is the harmonic mean of precision and recall, providing a balanced measure of model performance."
+What is accuracy? , Accuracy is the ratio of correct predictions to the total number of predictions made by the model.
+Define ROC curve , ROC curve is a graph showing the performance of a classification model at all classification thresholds.
+What is regularization? , Regularization is a technique to prevent overfitting by adding a penalty term to the loss function.
+Explain L1 regularization ," L1 regularization adds the sum of absolute values of parameters to the loss function, promoting sparsity."
+What is L2 regularization? ," L2 regularization adds the sum of squared parameters to the loss function, preventing large weights."
+Define gradient descent , Gradient descent is an optimization algorithm that finds the minimum of a function by iteratively moving in the direction of steepest descent.
+What is stochastic gradient descent? , Stochastic gradient descent updates model parameters using one randomly selected sample at a time.
+Explain batch gradient descent , Batch gradient descent computes gradients using the entire training dataset before updating parameters.
+What is mini-batch gradient descent? , Mini-batch gradient descent uses a small subset of training data to compute gradients and update parameters.
+Define learning rate , Learning rate is a hyperparameter that controls how much the model weights are updated during training.
+What is feature scaling? ," Feature scaling is the process of normalizing features to have similar scales, improving model performance."
+Explain data normalization ," Data normalization is the process of scaling data to a standard range, typically between 0 and 1."
+What is standardization? , Standardization is the process of scaling data to have zero mean and unit variance.
+Define ensemble learning , Ensemble learning combines multiple models to create a stronger predictor than individual models alone.
+What is bagging? , Bagging (Bootstrap Aggregating) is an ensemble method that trains multiple models on different bootstrap samples of the training data.
+Explain boosting ," Boosting is an ensemble technique that sequentially combines weak learners, with each new learner focusing on previously misclassified examples."
+What is random forest? , Random forest is an ensemble method that combines multiple decision trees with random feature selection and bootstrap sampling.
+Define decision trees , Decision trees are a type of model that makes predictions by learning simple decision rules inferred from data features.
+What is logistic regression? , Logistic regression is a statistical method used for binary classification problems using the logistic function.
+Explain linear regression , Linear regression is a statistical method that models the relationship between a dependent variable and independent variables using a linear equation.
+What is support vector machines? , Support vector machines are supervised learning models that find the optimal hyperplane to separate different classes.
+Define k-nearest neighbors , K-nearest neighbors is a lazy learning algorithm that classifies data points based on the majority class of their k nearest neighbors.
+What is AdaBoost? , AdaBoost is a boosting algorithm that adjusts weights of misclassified instances to focus subsequent learners on difficult examples.
+Explain gradient boosting ," Gradient boosting builds models sequentially, with each new model correcting errors made by previous models using gradient descent."
+What is XGBoost? , XGBoost is an optimized gradient boosting framework designed for speed and performance in machine learning competitions.
+Define hyperparameter tuning , Hyperparameter tuning is the process of finding the best combination of hyperparameters for a machine learning model.
+What is grid search? , Grid search is a hyperparameter tuning method that exhaustively searches through a specified parameter grid.
+Explain random search , Random search is a hyperparameter tuning method that randomly samples parameter combinations from specified distributions.
+What is Bayesian optimization? , Bayesian optimization is a method for optimizing expensive-to-evaluate functions by building a probabilistic model.
+Define multi-class classification , Multi-class classification is a classification task with more than two classes.
+What is multi-label classification? , Multi-label classification is a classification task where each instance can belong to multiple classes simultaneously.
+Explain imbalanced data ," Imbalanced data refers to datasets where classes are not represented equally, with some classes having significantly fewer samples."
+What is SMOTE? , SMOTE (Synthetic Minority Oversampling Technique) is a method for handling imbalanced datasets by generating synthetic examples.
+Define cost-sensitive learning , Cost-sensitive learning is an approach that takes into account the varying costs of different types of classification errors.
+What is anomaly detection? ," Anomaly detection is the identification of rare items, events, or observations that deviate significantly from the norm."
+Explain one-class SVM , One-class SVM is an unsupervised algorithm that learns a decision function for novelty detection using only normal data.
+What is isolation forest? , Isolation forest is an anomaly detection algorithm that isolates anomalies by randomly selecting features and split values.
+Define local outlier factor , Local outlier factor is a method for identifying outliers by measuring the local deviation of a data point with respect to its neighbors.
+What is clustering validation? , Clustering validation is the process of evaluating the quality of clustering results using various metrics.
+Explain silhouette analysis , Silhouette analysis is a method for interpreting and validating consistency within clusters of data.
+What is elbow method? , The elbow method is a technique used to determine the optimal number of clusters in k-means clustering.
+Define DBSCAN clustering , DBSCAN is a density-based clustering algorithm that groups together points in high-density areas and marks outliers in low-density areas.
+What is data science? ," Data science is an interdisciplinary field that uses scientific methods, algorithms, and systems to extract insights from structured and unstructured data."
+Define big data ," Big data refers to extremely large datasets that require specialized tools and techniques to store, process, and analyze."
+What are the 5 V's of big data? ," The 5 V's of big data are Volume, Velocity, Variety, Veracity, and Value."
+Explain data mining ," Data mining is the process of discovering patterns, trends, and insights from large datasets using various analytical techniques."
+What is exploratory data analysis? , Exploratory data analysis (EDA) is the process of analyzing datasets to summarize their main characteristics using statistical graphics and visualization methods.
+Define data cleaning ," Data cleaning is the process of detecting and correcting errors, inconsistencies, and inaccuracies in datasets."
+What is data preprocessing? ," Data preprocessing involves transforming raw data into a clean, formatted dataset suitable for analysis and modeling."
+Explain data visualization ," Data visualization is the representation of data through charts, graphs, maps, and other visual elements to communicate insights effectively."
+What is a data warehouse? , A data warehouse is a centralized repository that stores integrated data from multiple sources for analysis and reporting.
+Define ETL process ," ETL (Extract, Transform, Load) is a process that extracts data from various sources, transforms it into a suitable format, and loads it into a target system."
+What is data wrangling? ," Data wrangling is the process of cleaning, structuring, and enriching raw data into a desired format for analysis."
+Explain descriptive statistics , Descriptive statistics are summary statistics that describe the basic features of a dataset.
+What is inferential statistics? , Inferential statistics is the process of drawing conclusions about a population based on a sample of data.
+Define data quality ," Data quality refers to the condition of data based on factors like accuracy, completeness, consistency, and reliability."
+What is missing data? , Missing data refers to the absence of values for certain variables in a dataset.
+Explain data imputation , Data imputation is the process of filling in missing values in a dataset using various statistical methods.
+What is data integration? , Data integration is the process of combining data from different sources into a unified view.
+Define data transformation , Data transformation is the process of converting data from one format or structure into another.
+What is data profiling? ," Data profiling is the process of examining and analyzing data to understand its structure, content, and quality."
+Explain data governance ," Data governance is the overall management of data availability, usability, integrity, and security in an organization."
+What is statistical significance? , Statistical significance indicates whether observed differences in data are likely due to chance or represent true effects in the population.
+Explain p-value ," A p-value is the probability of obtaining results at least as extreme as observed, assuming the null hypothesis is true."
+What is A/B testing? , A/B testing is a statistical method that compares two versions of a variable to determine which performs better.
+Define confidence interval , A confidence interval is a range of values that likely contains the true population parameter with a specified level of confidence.
+What is correlation? , Correlation measures the strength and direction of a linear relationship between two variables.
+Explain causation vs correlation ," Correlation indicates a relationship between variables, while causation implies that one variable directly causes changes in another."
+What is regression analysis? , Regression analysis is a statistical method used to examine the relationship between a dependent variable and one or more independent variables.
+Define R-squared , R-squared is a statistical measure that represents the proportion of variance in the dependent variable explained by the independent variables.
+What is multicollinearity? , Multicollinearity occurs when independent variables in a regression model are highly correlated with each other.
+Explain hypothesis testing , Hypothesis testing is a statistical method used to make decisions about population parameters based on sample data.
+What is Type I error? , Type I error is rejecting a true null hypothesis (false positive).
+Define Type II error , Type II error is accepting a false null hypothesis (false negative).
+What is power analysis? , Power analysis is the calculation of the probability that a test will correctly reject a false null hypothesis.
+Explain sampling methods , Sampling methods are techniques used to select a subset of individuals from a population for statistical analysis.
+What is stratified sampling? ," Stratified sampling is a method where the population is divided into strata, and samples are drawn from each stratum."
+Define cluster sampling ," Cluster sampling is a method where the population is divided into clusters, and entire clusters are randomly selected."
+What is systematic sampling? , Systematic sampling is a method where every kth element is selected from a population after a random starting point.
+Explain central limit theorem , The central limit theorem states that the sampling distribution of the sample mean approaches a normal distribution as sample size increases.
+What is normal distribution? ," Normal distribution is a continuous probability distribution that is symmetric around the mean, forming a bell-shaped curve."
+Define standard deviation , Standard deviation is a measure of the amount of variation or dispersion in a set of values.
+What is time series analysis? ," Time series analysis involves studying data points collected over time to identify trends, patterns, and seasonal variations."
+Define seasonality in time series , Seasonality refers to predictable patterns that repeat over fixed periods in time series data.
+What is ARIMA model? , ARIMA (AutoRegressive Integrated Moving Average) is a statistical model used for analyzing and forecasting time series data.
+Explain principal component analysis , PCA is a dimensionality reduction technique that transforms data into a lower-dimensional space while preserving maximum variance.
+What is cluster analysis? , Cluster analysis is a technique that groups similar data points together based on their characteristics or features.
+Define k-means clustering , K-means clustering is an unsupervised learning algorithm that partitions data into k clusters based on feature similarity.
+What is hierarchical clustering? , Hierarchical clustering creates a tree-like structure of clusters by either merging or splitting clusters iteratively.
+Explain dimensionality reduction , Dimensionality reduction is the process of reducing the number of features in a dataset while preserving important information.
+What is the curse of dimensionality? ," The curse of dimensionality refers to phenomena that occur when analyzing data in high-dimensional spaces, including increased computational complexity and sparsity."
+Define outlier detection , Outlier detection is the process of identifying data points that significantly differ from other observations in a dataset.
+What is Gaussian mixture models? , Gaussian mixture models are probabilistic models that assume data comes from a mixture of Gaussian distributions.
+Explain spectral clustering , Spectral clustering uses the eigenvalues of a similarity matrix to perform dimensionality reduction before clustering.
+What is t-SNE? , t-SNE (t-Distributed Stochastic Neighbor Embedding) is a technique for dimensionality reduction that is particularly good for visualizing high-dimensional data.
+Define UMAP , UMAP (Uniform Manifold Approximation and Projection) is a dimensionality reduction technique that preserves local and global structure.
+What is manifold learning? , Manifold learning is a class of algorithms that assume data lies on a low-dimensional manifold within a high-dimensional space.
+Explain survival analysis , Survival analysis is a branch of statistics that deals with the expected duration until one or more events occur.
+What is Cox regression? , Cox regression is a statistical technique for exploring the relationship between the survival of a patient and several explanatory variables.
+Define Kaplan-Meier estimator , The Kaplan-Meier estimator is a non-parametric statistic used to estimate the survival function from lifetime data.
+What is hazard function? ," A hazard function represents the instantaneous risk of an event occurring at time t, given survival up to time t."
+Explain bootstrapping , Bootstrapping is a resampling technique that involves repeatedly sampling with replacement from the original dataset.
+What is artificial intelligence? , Artificial Intelligence is the simulation of human intelligence in machines programmed to think and learn like humans.
+Define narrow AI , Narrow AI is artificial intelligence designed to perform specific tasks within a limited domain.
+What is general AI? , General AI refers to artificial intelligence with human-like cognitive abilities across multiple domains.
+Explain expert systems , Expert systems are AI programs that emulate the decision-making ability of human experts in specific domains.
+What is natural language processing? ," Natural Language Processing (NLP) is a branch of AI that helps computers understand, interpret, and generate human language."
+Define computer vision , Computer vision is a field of AI that enables computers to interpret and understand visual information from the world.
+What is robotics? ," Robotics is an interdisciplinary field that combines AI, engineering, and computer science to create intelligent machines."
+Explain intelligent agents , Intelligent agents are autonomous entities that perceive their environment and take actions to achieve specific goals.
+What is the Turing Test? , The Turing Test is a test of machine intelligence where a human evaluator judges conversations between a human and a machine.
+Define knowledge representation , Knowledge representation is the field of AI focused on how to formally represent information about the world for computer processing.
+What is machine reasoning? , Machine reasoning is the ability of AI systems to draw logical conclusions from available information.
+Explain search algorithms , Search algorithms are methods used to find solutions to problems by exploring possible states or configurations.
+What is heuristic search? , Heuristic search uses rules of thumb or educated guesses to guide the search process toward promising solutions.
+Define constraint satisfaction , Constraint satisfaction problems involve finding values for variables that satisfy a set of constraints.
+What is planning in AI? , Planning in AI is the process of finding a sequence of actions to achieve a goal state from an initial state.
+Explain game playing AI ," Game playing AI involves creating systems that can play games at a high level, often using techniques like minimax and alpha-beta pruning."
+What is fuzzy logic? , Fuzzy logic is a form of many-valued logic that deals with approximate reasoning rather than fixed and exact reasoning.
+Define probabilistic reasoning , Probabilistic reasoning involves making inferences under uncertainty using probability theory.
+What is Bayesian networks? , Bayesian networks are probabilistic graphical models that represent conditional dependencies between variables.
+Explain decision theory , Decision theory is a branch of mathematics that studies decision-making under uncertainty.
+What is neural network? ," A neural network is a computing system inspired by biological neural networks, consisting of interconnected nodes (neurons) that process information."
+Explain perceptron ," A perceptron is the simplest form of neural network, consisting of a single layer that makes binary classifications."
+What is backpropagation? , Backpropagation is an algorithm used to train neural networks by propagating errors backward through the network to adjust weights.
+Define activation function , An activation function determines the output of a neural network node based on the weighted sum of inputs.
+What is deep learning? , Deep learning is a subset of machine learning that uses neural networks with multiple layers to model complex patterns in data.
+Explain convolutional neural network , CNN is a type of deep neural network particularly effective for processing grid-like data such as images.
+What is recurrent neural network? , RNN is a type of neural network designed to process sequential data by maintaining memory of previous inputs.
+Define LSTM , Long Short-Term Memory (LSTM) is a type of RNN that can learn long-term dependencies in sequence data.
+What is GRU? , Gated Recurrent Unit (GRU) is a type of RNN that uses gating mechanisms to control information flow.
+Explain transfer learning ," Transfer learning is a technique where a pre-trained model is adapted for a new, related task."
+What is dropout? , Dropout is a regularization technique that randomly sets some neurons to zero during training to prevent overfitting.
+Define batch normalization , Batch normalization is a technique that normalizes the inputs of each layer to improve training stability and speed.
+What is attention mechanism? , Attention mechanism allows neural networks to focus on relevant parts of input data when making predictions.
+Explain seq2seq models ," Sequence-to-sequence models are neural networks that transform one sequence into another, commonly used in translation tasks."
+What is autoencoder? ," An autoencoder is a neural network that learns to compress and then reconstruct data, often used for dimensionality reduction."
+Define variational autoencoder , A variational autoencoder is a generative model that learns to encode data into a latent space and decode it back.
+What is residual networks? , Residual networks (ResNets) use skip connections to allow training of very deep neural networks.
+Explain adversarial examples ," Adversarial examples are inputs designed to fool machine learning models by making small, imperceptible changes."
+What is adversarial training? , Adversarial training is a method to improve model robustness by training on adversarial examples.
+Define neural architecture search , Neural architecture search is the process of automatically designing neural network architectures.
+What is generative adversarial network? , GAN is a deep learning architecture where two neural networks compete: a generator creates fake data and a discriminator tries to detect it.
+Define transformer architecture , Transformer is a neural network architecture that uses self-attention mechanisms to process sequential data in parallel.
+What is BERT? , BERT (Bidirectional Encoder Representations from Transformers) is a pre-trained language model that understands context bidirectionally.
+Explain GPT models , GPT (Generative Pre-trained Transformer) models are language models that generate human-like text using transformer architecture.
+What is reinforcement learning? , Reinforcement learning is a type of machine learning where an agent learns to make decisions by receiving rewards or penalties.
+Define Q-learning , Q-learning is a model-free reinforcement learning algorithm that learns optimal action-selection policies.
+What is policy gradient methods? , Policy gradient methods directly optimize the policy function using gradient ascent on expected rewards.
+Explain actor-critic method ," Actor-critic combines value-based and policy-based methods, using an actor to select actions and a critic to evaluate them."
+What is deep reinforcement learning? , Deep reinforcement learning combines deep learning with reinforcement learning to handle high-dimensional state spaces.
+Define meta-learning ," Meta-learning is the science of learning to learn, where algorithms improve their learning process through experience."
+What is few-shot learning? , Few-shot learning is a machine learning approach that can learn new tasks with only a few training examples.
+Explain zero-shot learning , Zero-shot learning is the ability to classify or perform tasks on data categories that were not seen during training.
+What is continual learning? , Continual learning is the ability to learn new tasks without forgetting previously learned tasks.
+Define neural Turing machines , Neural Turing machines are neural networks augmented with external memory to perform complex reasoning tasks.
+What is differentiable programming? , Differentiable programming is a programming paradigm where programs can be differentiated to enable gradient-based optimization.
+Explain graph neural networks , Graph neural networks are neural networks designed to work with graph-structured data.
+What is federated learning? , Federated learning is a machine learning approach that trains models across decentralized data sources without sharing raw data.
+Define quantum machine learning , Quantum machine learning explores the application of quantum computing to machine learning problems.
+What is neuromorphic computing? , Neuromorphic computing is a computing approach that mimics the structure and function of biological neural networks.
+Explain artificial life , Artificial life is the study of systems that exhibit behaviors characteristic of natural living systems.
+What is probability? ," Probability is a measure of the likelihood that an event will occur, expressed as a number between 0 and 1."
+Define Bayes' theorem , Bayes' theorem describes the probability of an event based on prior knowledge of conditions related to the event.
+What is conditional probability? , Conditional probability is the probability of an event occurring given that another event has already occurred.
+Explain independence , Two events are independent if the occurrence of one event does not affect the probability of the other event.
+What is variance? ," Variance is the average of the squared differences from the mean, measuring how spread out data points are."
+Define covariance , Covariance measures how much two random variables change together.
+What is chi-square test? , Chi-square test is a statistical test used to determine if there's a significant association between categorical variables.
+Explain null hypothesis ," The null hypothesis is a statement that there is no effect or no difference, used as a starting point for statistical testing."
+What is alternative hypothesis? , The alternative hypothesis is a statement that contradicts the null hypothesis and represents what we're trying to prove.
+Define degrees of freedom , Degrees of freedom represent the number of independent pieces of information available to estimate a parameter.
+What is t-test? , A t-test is a statistical test used to compare means between groups or against a known value.
+Explain ANOVA , ANOVA (Analysis of Variance) is a statistical method used to test differences between two or more group means.
+What is linear correlation? , Linear correlation measures the strength and direction of a linear relationship between two continuous variables.
+Define regression coefficients , Regression coefficients represent the change in the dependent variable for a one-unit change in the independent variable.
+What is residual analysis? , Residual analysis involves examining the differences between observed and predicted values to validate model assumptions.
+Explain maximum likelihood estimation , Maximum likelihood estimation is a method for estimating parameters by maximizing the likelihood function.
+What is confidence level? , Confidence level is the probability that a confidence interval contains the true population parameter.
+Define effect size , Effect size is a quantitative measure of the magnitude of a phenomenon or the strength of a relationship.
+What is statistical power? , Statistical power is the probability that a test will correctly reject a false null hypothesis.
+Explain sampling distribution , A sampling distribution is the probability distribution of a statistic obtained from a large number of samples.
+What is Python? ," Python is a high-level, interpreted programming language widely used in data science, machine learning, and AI applications."
+What is R programming? , R is a programming language and software environment specifically designed for statistical computing and graphics.
+Explain pandas library , Pandas is a Python library providing data structures and data analysis tools for handling structured data.
+What is NumPy? ," NumPy is a Python library that provides support for large, multi-dimensional arrays and matrices, along with mathematical functions."
+Define scikit-learn , Scikit-learn is a Python library that provides simple and efficient tools for machine learning and data mining.
+What is TensorFlow? , TensorFlow is an open-source platform for machine learning that provides comprehensive tools for building and deploying ML models.
+Explain PyTorch , PyTorch is an open-source machine learning framework that provides tensor computations and deep neural networks.
+What is Jupyter Notebook? ," Jupyter Notebook is an interactive computing environment that allows you to create and share documents containing code, equations, and visualizations."
+Define Git version control , Git is a distributed version control system that tracks changes in files and coordinates work among multiple developers.
+What is SQL? , SQL (Structured Query Language) is a programming language designed for managing and manipulating relational databases.
+Explain Apache Spark , Apache Spark is an open-source distributed computing system designed for fast processing of large datasets.
+What is Hadoop? , Hadoop is an open-source framework for distributed storage and processing of large datasets across clusters of computers.
+Define Docker , Docker is a platform that uses containerization to package applications and their dependencies into portable containers.
+What is Kubernetes? ," Kubernetes is an open-source container orchestration platform for automating deployment, scaling, and management of containerized applications."
+Explain REST API , REST API is a set of rules and conventions for building and interacting with web services using HTTP methods.
+What is JSON? , JSON (JavaScript Object Notation) is a lightweight data-interchange format that's easy for humans to read and write.
+Define data pipeline ," A data pipeline is a series of data processing steps that move data from source to destination, transforming it along the way."
+What is cloud computing? ," Cloud computing is the delivery of computing services over the internet, including storage, processing, and software."
+Explain microservices ," Microservices is an architectural approach that structures an application as a collection of small, independently deployable services."
+What is NoSQL database? , NoSQL databases are non-relational databases designed to handle large volumes of unstructured or semi-structured data.
+What is an array? , An array is a data structure that stores elements of the same type in contiguous memory locations.
+Define linked list ," A linked list is a linear data structure where elements are stored in nodes, and each node contains data and a reference to the next node."
+What is a stack? , A stack is a linear data structure that follows the Last In First Out (LIFO) principle for adding and removing elements.
+Explain queue data structure , A queue is a linear data structure that follows the First In First Out (FIFO) principle for adding and removing elements.
+What is a binary tree? ," A binary tree is a hierarchical data structure where each node has at most two children, referred to as left and right child."
+Define hash table ," A hash table is a data structure that implements an associative array, mapping keys to values using a hash function."
+What is binary search? , Binary search is an efficient algorithm for finding an item from a sorted list by repeatedly dividing the search interval in half.
+Explain sorting algorithms ," Sorting algorithms are methods for arranging elements in a specific order, such as ascending or descending numerical or lexicographical order."
+What is Big O notation? , Big O notation describes the upper bound of the time or space complexity of an algorithm in terms of input size.
+Define recursion , Recursion is a programming technique where a function calls itself to solve smaller instances of the same problem.
+What is dynamic programming? , Dynamic programming is a method for solving complex problems by breaking them down into simpler subproblems.
+Explain greedy algorithms , Greedy algorithms make locally optimal choices at each step with the hope of finding a global optimum.
+What is breadth-first search? , Breadth-first search is a graph traversal algorithm that explores all vertices at the current depth before moving to vertices at the next depth.
+Define depth-first search , Depth-first search is a graph traversal algorithm that explores as far as possible along each branch before backtracking.
+What is Dijkstra's algorithm? , Dijkstra's algorithm is a graph search algorithm that finds the shortest path between nodes in a weighted graph.
+Explain merge sort ," Merge sort is a divide-and-conquer algorithm that divides the array into halves, sorts them, and then merges them back together."
+What is quick sort? , Quick sort is a divide-and-conquer algorithm that selects a pivot element and partitions the array around it.
+Define heap data structure , A heap is a complete binary tree where each node is either greater than or equal to (max heap) or less than or equal to (min heap) its children.
+What is a graph? ," A graph is a data structure consisting of vertices (nodes) connected by edges, used to represent relationships between objects."
+Explain tree traversal , Tree traversal is the process of visiting each node in a tree data structure exactly once in a systematic way.
+What is AI ethics? , AI ethics is the field that examines the moral implications and societal impacts of artificial intelligence systems.
+Define algorithmic bias , Algorithmic bias occurs when AI systems produce discriminatory results due to biased training data or flawed algorithms.
+What is fairness in AI? , Fairness in AI refers to the principle that AI systems should treat all individuals and groups equitably without discrimination.
+Explain explainable AI , Explainable AI (XAI) refers to AI systems that provide clear explanations for their decisions and predictions.
+What is privacy in AI? , Privacy in AI involves protecting personal information and ensuring that AI systems don't violate user privacy rights.
+Define AI transparency ," AI transparency refers to the openness and clarity about how AI systems work, their limitations, and their decision-making processes."
+What is responsible AI? ," Responsible AI is the practice of developing and deploying AI systems in ways that are ethical, fair, and beneficial to society."
+Explain AI safety , AI safety focuses on ensuring that AI systems operate safely and don't cause unintended harm to humans or society.
+What is the AI alignment problem? , The AI alignment problem refers to the challenge of ensuring that AI systems' goals and behaviors align with human values and intentions.
+Define AI governance ," AI governance involves the frameworks, policies, and processes for overseeing the development and deployment of AI systems."
+What is data sovereignty? , Data sovereignty refers to the concept that data is subject to the laws and governance structures of the nation where it's collected.
+Explain informed consent , Informed consent is the principle that individuals should understand and agree to how their data will be used.
+What is algorithmic accountability? , Algorithmic accountability refers to the responsibility of organizations to explain and justify their algorithmic decisions.
+Define digital divide , The digital divide refers to the gap between those who have access to digital technologies and those who don't.
+What is AI for social good? , AI for social good involves using artificial intelligence to address societal challenges and improve human welfare.
+Explain human-in-the-loop , Human-in-the-loop refers to AI systems that incorporate human judgment and oversight in their decision-making processes.
+What is AI regulation? , AI regulation involves government policies and laws designed to oversee the development and deployment of AI systems.
+Define technological determinism , Technological determinism is the belief that technology drives social change and human behavior.
+What is the precautionary principle? , The precautionary principle suggests that lack of full scientific certainty shouldn't postpone action to prevent potential harm.
+Explain stakeholder engagement , Stakeholder engagement involves including diverse perspectives and interests in AI development and deployment decisions.
+What is business intelligence? , Business intelligence involves analyzing business data to help organizations make informed decisions.
+Define predictive analytics ," Predictive analytics uses historical data, statistical algorithms, and machine learning to predict future outcomes."
+What is customer segmentation? , Customer segmentation is the practice of dividing customers into groups based on shared characteristics or behaviors.
+Explain recommendation systems , Recommendation systems are algorithms that suggest relevant items to users based on their preferences and behavior.
+What is churn prediction? , Churn prediction is the process of identifying customers who are likely to stop
+What is artificial intelligence?,It is the simulation of human intelligence processes by machines.
+What is machine learning?,A subset of AI that enables systems to learn from data and improve over time.
+What is deep learning?,A type of machine learning using neural networks with many layers.
+What is a neural network?,"A model inspired by the human brain,  consisting of layers of interconnected nodes."
+What is reinforcement learning?,A type of ML where an agent learns to take actions by receiving rewards or penalties.
+What is a decision tree?,A tree-like model used for classification and regression tasks.
+What is random forest?,An ensemble learning method using multiple decision trees.
+What is support vector machine?,A supervised learning algorithm used for classification and regression.
+What is k-means clustering?,An unsupervised algorithm used to partition data into k clusters.
+What is PCA?,Principal Component Analysis is used for dimensionality reduction.
+What is feature engineering?,The process of selecting and transforming variables to improve model performance.
+What is feature selection?,Choosing the most important variables for model training.
+What is a hyperparameter?,A configuration external to the model that must be set before training.
+What is bias in machine learning?,Error from erroneous assumptions in the learning algorithm.
+What is variance in machine learning?,Error from sensitivity to small fluctuations in the training set.
+What is regularization?,A technique to prevent overfitting by adding a penalty to the loss function.
+What is L1 regularization?,"Also known as Lasso,  it adds the absolute value of coefficients to the loss."
+What is L2 regularization?,"Also known as Ridge,  it adds the squared value of coefficients to the loss."
+What is ensemble learning?,Combining predictions from multiple models to improve performance.
+What is bagging?,An ensemble method that trains multiple models on different subsets of data.
+What is boosting?,"An ensemble method that trains models sequentially, each correcting the previous."
+What is XGBoost?,An optimized implementation of gradient boosting for speed and performance.
+What is LightGBM?,A gradient boosting framework that uses tree-based learning algorithms.
+What is CatBoost?,A gradient boosting algorithm that handles categorical features automatically.
+What is NLP?,Natural Language Processing deals with interaction between computers and human language.
+What is sentiment analysis?,Analyzing text to determine the emotional tone behind it.
+What is tokenization in NLP?,Breaking text into smaller pieces like words or phrases.
+What is stemming?,Reducing words to their root form.
+What is lemmatization?,Converting a word to its base or dictionary form.
+What is word embedding?,A representation of words in vector space.
+What is TF-IDF?,Term Frequency-Inverse Document Frequency is used to evaluate word importance.
+What is a chatbot?,A software that simulates conversation with users.
+What is data analytics?,It is the process of examining data sets to draw conclusions about the information they contain.
+What are the types of data analytics?,"Descriptive,  Diagnostic"
+ What is descriptive analytics?,It summarizes historical data to understand changes over time.
+ What is diagnostic analytics?,It examines data to understand causes of past outcomes.
+ What is predictive analytics?,"It uses data, statistical algorithms"
+ What is prescriptive analytics?,It suggests actions to benefit from the predictions and take advantage of future opportunities.
+ What is the difference between data analytics and data science?,"Data analytics focuses on analyzing existing data,  while data science involves developing models and algorithms to extract insights and make predictions."
+ What tools are commonly used in data analytics?,"Excel, SQL, Tableau"
+ What is a KPI?,A Key Performance Indicator is a measurable value that shows how effectively a company is achieving its objectives.
+ What is data visualization?,The graphical representation of information and data using visual elements like charts and graphs.
+ What is a dashboard?,A visual interface that displays key metrics and data points for decision-making.
+ What is a pivot table?,"A data summarization tool found in Excel and BI tools to sort,  reorganize"
+ What is exploratory data analysis EDA)?,It’s an approach to analyzing data sets to summarize their main characteristics  often using visual methods.
+ What is data wrangling?,It is the process of cleaning and transforming raw data into a format suitable for analysis.
+ What is a data warehouse?,A central repository for storing integrated data from multiple sources for reporting and analysis.
+ What is SQL used for in analytics?,"It is used for querying, managing"
+ What is a correlation matrix?,A table showing correlation coefficients between variables.
+ What is the difference between correlation and causation?,"Correlation is a relationship between two variables, while causation means one causes the other."
+ What is A/B testing?,It is a method of comparing two versions of a variable to determine which performs better.
+ What is a time series?,A series of data points indexed in time order.
+ What is forecasting?,Predicting future data values based on historical patterns.
+ What is outlier detection?,Identifying data points that significantly differ from other observations.
+ What is normalization in data analytics?,It is the process of scaling data into a specified range  typically 0 to 1.
+ What is a histogram?,A graphical representation of the distribution of a dataset.
+ What is skewness?,A measure of the asymmetry of the distribution of values in a dataset.
+ What is kurtosis?,A measure of whether the data are heavy-tailed or light-tailed relative to a normal distribution.
+ What is data lineage?,The process of tracking the data from its source to its destination through all transformations.
+ What is data governance?,"The management of data availability,  usability"
+ What is a null value in data?,It represents missing or undefined data.
+ What is the importance of data quality?,"High-quality data is accurate,  complete"
+ What is a Pareto chart?,A bar graph that shows which factors are more significant.
+ What is root cause analysis?,A method of problem solving to identify the underlying cause of an issue.
+ What is a data analyst?,"A professional who collects,  processes"
+ What is Power BI?,A business analytics tool by Microsoft used for visualizing and sharing insights.
+ What is Tableau?,A data visualization software used to create interactive dashboards.
+ What is a dimension in analytics?,"A qualitative attribute used to categorize data,such as date or region."
+ What is a measure in analytics?,"A quantitative value that is analyzed, like revenue or profit."
+ What is a data mart?,"A subset of a data warehouse, focused on a specific business line or team."
+ What is the 80/20 rule in data analysis?,Also known as Pareto Principle: 80% of effects come from 20% of causes.

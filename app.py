@@ -5,7 +5,7 @@ from fuzzywuzzy import fuzz
 app = Flask(__name__)
 
 # Load dataset
-df = pd.read_csv("augmented_chatbot_dataset.csv")
+df = pd.read_csv("cleaned_questions_answers.csv")
 questions = df['Question'].astype(str).tolist()
 answers = df['Answer'].astype(str).tolist()
 
